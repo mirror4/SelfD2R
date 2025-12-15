@@ -15,11 +15,12 @@
 >FCR断点：双Spirit+Trang手+Arach/10戒=105%（8帧传送，必备）
 
 ## PET
-|类型|名称|备注|
-|-|-|-|
-|**武器**| ✅[眼光巨绞Insight](https://www.wolai.com/dyhongye/37gxPMdUshPF7EudT17GXq) | `Ral(8) + Tir(3) + Tal(7) + Sol(12)` |
-|**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) |`El(1) + Sol(12) + Dol(14) + Lo(28)`|
-|**头盔**| [吸血鬼的凝视Vampire Gaze](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%90%B8%E8%A1%80%E9%AC%BC%E7%9A%84%E5%87%9D%E8%A7%86_(Diablo2))||
+|类型|过渡|毕业|备注|
+|-|-|-|-|
+|**武器**|  ✅[眼光巨绞Insight](https://www.wolai.com/dyhongye/37gxPMdUshPF7EudT17GXq) `Ral(8) + Tir(3) + Tal(7) + Sol(12)`</br>[死神的丧钟The Reaper's Toll](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AD%BB%E7%A5%9E%E7%9A%84%E4%B8%A7%E9%92%9F_(Diablo2))</br>[遵从Obedience](https://www.wolai.com/dyhongye/6iwNLqjUYqXQ2yKZA9gmFK) `Hel(15) + Ko(18) + Thul(10) + Eth(5) + Fal(19)`| - | - |
+|**装甲**| [强制Duress](https://www.wolai.com/dyhongye/ft5MLMMg6ECqCsXHXieRnG) `Shael(13) + Um(22) + Thul(10)`</br>[都瑞尔的壳Duriel's Shell](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%83%BD%E7%91%9E%E5%B0%94%E7%9A%84%E5%A3%B3_(Diablo2))</br> [背叛Treachery](https://www.wolai.com/dyhongye/nYULsqy6W461uWLyBKuGaB)`Shael(13) + Thul(10) + Lem(20)`| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)` | -|
+|**头盔**| [吸血鬼的凝视Vampire Gaze](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%90%B8%E8%A1%80%E9%AC%BC%E7%9A%84%E5%87%9D%E8%A7%86_(Diablo2))</br>[塔拉夏的赫拉迪克纹章Tal Rasha's Horadric Crest](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))</br>[盗贼皇冠Crown of Thieves](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%9B%97%E8%B4%BC%E7%9A%87%E5%86%A0_(Diablo2))</br>[吉永之脸Guillaume's Face](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%90%89%E6%B0%B8%E4%B9%8B%E8%84%B8_(Diablo2))</br>`蓝色/金色“偷取生命”头环`| [安达利尔的面貌Andariel's Visage](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%AE%89%E8%BE%BE%E5%88%A9%E5%B0%94%E7%9A%84%E9%9D%A2%E8%B2%8C_(Diablo2)) | 塔拉夏的头：全抗、吸血，非常全面。</br>盗贼皇冠：吸血、火抗。</br>蓝色/金色“偷取生命”头环：带抗性和属性为佳。</br>吉永之脸：提供高CB，对付BOSS快</br>镶嵌物：攻速/抗性珠宝，或拉尔符文（Ral）抵消火抗惩罚。</br>作用：+2技能（提升信念光环等级）、攻速、力量、生命偷取。是搭配无限的最佳头盔之一。注意其-30%火抗，需要镶嵌拉尔符文或用装备补足火抗。 |
+>抗性是否满（地狱75%）、是否无法冰冻、生命偷取是否足够（一般8%以上）
 
 ## 1. 技能重洗（Akara洗点，必做！）
 纯冰暴风雪加点（87级够用，剩点全冰冷支配）：
