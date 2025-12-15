@@ -15,6 +15,8 @@
 >FCR断点：双Spirit+Trang手+Arach/10戒=105%（8帧传送，必备）
 
 ## PET
+>最优选择：噩梦难度 第二幕 防御枪兵（带“圣冰”光环）
+
 |类型|过渡|毕业|备注|
 |-|-|-|-|
 |**武器**|  ✅[眼光巨绞Insight](https://www.wolai.com/dyhongye/37gxPMdUshPF7EudT17GXq) `Ral(8) + Tir(3) + Tal(7) + Sol(12)`</br>[死神的丧钟The Reaper's Toll](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AD%BB%E7%A5%9E%E7%9A%84%E4%B8%A7%E9%92%9F_(Diablo2))</br>[遵从Obedience](https://www.wolai.com/dyhongye/6iwNLqjUYqXQ2yKZA9gmFK) `Hel(15) + Ko(18) + Thul(10) + Eth(5) + Fal(19)`| [无限Infinity](https://www.wolai.com/dyhongye/e8447HthEu55K28geKFV7H) `Ber(30) + Mal(23) + Ber(30) + Ist(24)`| 底材：首选巨型斩镰、巨长斧、锐利之斧 |
