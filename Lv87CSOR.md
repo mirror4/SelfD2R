@@ -1,4 +1,5 @@
-## 装备
+# 装备
+## 角色
 |类型|开荒|MF装|输出|说明|
 |-|-|-|-|-|
 |**武器**| [精神剑Spirit](https://www.wolai.com/dyhongye/h8VEh9diW4SuXGTevXYX49) |[眼球Oculus](https://wiki.d.163.com/index.php?title=Unique_Sorceress_Orbs_(Diablo2))|[死亡深度Death's Fathom](https://wiki.d.163.com/index.php?title=Unique_Sorceress_Orbs_(Diablo2))| [法珠](https://d2r.world/zh-TW/info/item/unique/orbs) |
@@ -12,6 +13,13 @@
 |**戒指**|双BK（MF+吸血）或10FCR戒|[拿各的戒指Nagelring](https://wiki.d.163.com/index.php?title=Rings_(Diablo2))|[乔丹之石SoJ](https://wiki.d.163.com/index.php?title=Rings_(Diablo2)) / `乌鸦之霜Raven Frost`| - |
 |**板子**|安达/[地狱火炬Hellfire Torch](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9C%B0%E7%8B%B1%E7%81%AB%E7%82%AC)/冷破板MF/抗/跑小魅|`吉黑得的运气/基德的財運Gheed's Fortune`|`同MF+冷技能大魅x8（+1冷）`| - |
 >FCR断点：双Spirit+Trang手+Arach/10戒=105%（8帧传送，必备）
+
+## PET
+|类型|名称|备注|
+|-|-|-|
+|**武器**| [眼光巨绞Insight](https://www.wolai.com/dyhongye/37gxPMdUshPF7EudT17GXq) | `Ral(8) + Tir(3) + Tal(7) + Sol(12)` |
+|**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) |`El(1) + Sol(12) + Dol(14) + Lo(28)`|
+|**头盔**| [吸血鬼的凝视Vampire Gaze](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%90%B8%E8%A1%80%E9%AC%BC%E7%9A%84%E5%87%9D%E8%A7%86_(Diablo2))||
 
 ## 1. 技能重洗（Akara洗点，必做！）
 纯冰暴风雪加点（87级够用，剩点全冰冷支配）：
