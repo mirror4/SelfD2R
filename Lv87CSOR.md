@@ -10,7 +10,7 @@
 |**手套**|[法师之拳Magefist](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B3%95%E5%B8%88%E4%B9%8B%E6%8B%B3_(Diablo2))/✅[塔格奥之爪Trang-Oul's Claws](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))|`Magefist`/`Trang-Oul's Claws`|`Magefist`| - |
 |**腰带**|[塔格奥之束带Trang-Oul's Girth](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))|✅[塔拉夏的织细衣服Tal Rasha's Fine-Spun Cloth](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))|[蜘蛛之网Arachnid Mesh](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9C%98%E8%9B%9B%E4%B9%8B%E7%BD%91_(Diablo2))| - |
 |**鞋子**| [战争旅者War Traveler](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%88%98%E4%BA%89%E6%97%85%E8%80%85_(Diablo2))|战争旅者War Traveler|[沙暴之旅Sandstorm Trek](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B2%99%E6%9A%B4%E4%B9%8B%E6%97%85_(Diablo2))| - |
-|**戒指**|双BK（MF+吸血）或10FCR戒|[拿各的戒指Nagelring](https://wiki.d.163.com/index.php?title=Rings_(Diablo2))|[乔丹之石SoJ](https://wiki.d.163.com/index.php?title=Rings_(Diablo2)) / `乌鸦之霜Raven Frost`| - |
+|**戒指**|双BK（MF+吸血）或10FCR戒|✅[拿各的戒指Nagelring](https://wiki.d.163.com/index.php?title=Rings_(Diablo2))|[乔丹之石SoJ](https://wiki.d.163.com/index.php?title=Rings_(Diablo2)) / `乌鸦之霜Raven Frost`| - |
 |**板子**|安达/[地狱火炬Hellfire Torch](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9C%B0%E7%8B%B1%E7%81%AB%E7%82%AC)/冷破板MF/抗/跑小魅|`吉黑得的运气/基德的財運Gheed's Fortune`|`同MF+冷技能大魅x8（+1冷）`| - |
 >FCR断点：双Spirit+Trang手+Arach/10戒=105%（8帧传送，必备）
 
