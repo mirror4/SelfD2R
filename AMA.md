@@ -38,3 +38,4 @@
 |**头盔**| [治愈Cure](https://www.wolai.com/dyhongye/rT9n1kmzFkHs8G3Y7g97YM)`Shael(13) + Io(16) + Tal(7)` |-|
 |**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)` |-|
 |**武器**| [执法者Lawbringer](https://www.wolai.com/dyhongye/k7HxSprfxn3HxJ2Gi5QyaD)`Amn(11) + Lem(20) + Ko(18)`</br>[最后的遗愿Last Wish](https://www.wolai.com/dyhongye/priYTWBjRkicTxMxCZzNfG)`Jah(31) + Mal(23) + Jah(31) + Sur(29) + Jah(31) + Ber(30)` |-|
+
