@@ -12,7 +12,7 @@
 |**手套**| [手掌的安置(门徒套装)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%89%8B%E6%8E%8C%E7%9A%84%E5%AE%89%E7%BD%AE_(Diablo2)) | - |
 |**腰带**| ✅`剃刀之尾Razortail`</br>`雷神之力Thundergod's Vigor` | [暗金腰带](https://wiki.d.163.com/index.php?title=Unique_Belts_(Diablo2)) |
 |**鞋子**| [战争旅者War Traveler](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%88%98%E4%BA%89%E6%97%85%E8%80%85_(Diablo2))</br>[娜塔亚的灵魂Natalya's Soul](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))</br>百抗鞋 | - |
-|**戒指**| 20敏高命中乌鸦之霜</br>双吸 抗性 属性戒指 | - |
+|**戒指**| [乌鸦之霜](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B9%8C%E9%B8%A6%E4%B9%8B%E9%9C%9C)</br>双吸 抗性 属性戒指 | - |
 |**板子**| 残害之锐利14MAX</br>活力之锐利10MAX 45血</br>工匠之良质 4MAX 20命中 | - |
 >加点顺序：先满 扫射  满引导箭 满多重箭 （重置版增加了协同，必须满）
 >1级女武神， 致命攻势算上装备加到18级66%    带信心就点1级命中 带风之力命中要满
