@@ -9,7 +9,7 @@
 |**头盔**| 速度之珠宝匠/工匠(+30高跑+3S) </br> 残害之珠宝匠/工匠 (+12MAX +3S) | 镶嵌 2颗白热之朱红+15攻速+15MAX  1颗屠杀之朱红 +30MAX</br>2白热之宝红+15攻速+40ED%   1颗屠杀之朱红+30MAX |
 |**衣服**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)`</br>[谜团Enigma](https://www.wolai.com/dyhongye/dQt17uzSZ4ppctys6Te2w6)`Jah(31) + Ith(6) + Ber(30)` | - |
 |**项链**| [亚特玛的圣甲虫Atma's Scarab](https://wiki.d.163.com/index.php?title=Amulets_(Diablo2)) | 如果习惯切副手撕裂者的话可带 带大君 |
-|**手套**| [手掌的安置(门徒套装)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%89%8B%E6%8E%8C%E7%9A%84%E5%AE%89%E7%BD%AE_(Diablo2)) | - |
+|**手套**| ✅[手掌的安置(门徒套装)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%89%8B%E6%8E%8C%E7%9A%84%E5%AE%89%E7%BD%AE_(Diablo2)) | - |
 |**腰带**| ✅`剃刀之尾Razortail`</br>`雷神之力Thundergod's Vigor` | [暗金腰带](https://wiki.d.163.com/index.php?title=Unique_Belts_(Diablo2)) |
 |**鞋子**| [战争旅者War Traveler](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%88%98%E4%BA%89%E6%97%85%E8%80%85_(Diablo2))</br>[娜塔亚的灵魂Natalya's Soul](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))</br>百抗鞋 | - |
 |**戒指**| [乌鸦之霜Raven Frost](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B9%8C%E9%B8%A6%E4%B9%8B%E9%9C%9C)</br>双吸 抗性 属性戒指 | - |
