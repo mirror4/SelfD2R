@@ -14,6 +14,7 @@
 |**鞋子**| [战争旅者War Traveler](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%88%98%E4%BA%89%E6%97%85%E8%80%85_(Diablo2))</br>[娜塔亚的灵魂Natalya's Soul](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))</br>百抗鞋 | - |
 |**戒指**| [乌鸦之霜Raven Frost](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E4%B9%8C%E9%B8%A6%E4%B9%8B%E9%9C%9C)</br>双吸 抗性 属性戒指 | - |
 |**板子**| 残害之锐利14MAX</br>活力之锐利10MAX 45血</br>工匠之良质 4MAX 20命中 | - |
+|**盒子**| [催促Hustle](https://www.wolai.com/dyhongye/od95UjSmf2V1BKbv15vFrj)`Shael(13) + Ko(18) + Eld(2)` | *天梯* |
 >加点顺序：先满 扫射  满引导箭 满多重箭 （重置版增加了协同，必须满）
 >1级女武神， 致命攻势算上装备加到18级66%    带信心就点1级命中 带风之力命中要满
 >贯穿攻势算上装备加到10级66%  算上穿刺腰带的33%够用了
@@ -35,7 +36,7 @@
 
 |类型|装备|备注|
 |-|-|-|
-|**头盔**| [治愈Cure](https://www.wolai.com/dyhongye/rT9n1kmzFkHs8G3Y7g97YM)`Shael(13) + Io(16) + Tal(7)` |-|
+|**头盔**| [治愈Cure](https://www.wolai.com/dyhongye/rT9n1kmzFkHs8G3Y7g97YM)`Shael(13) + Io(16) + Tal(7)` |*天梯*|
 |**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)` |-|
 |**武器**| [执法者Lawbringer](https://www.wolai.com/dyhongye/k7HxSprfxn3HxJ2Gi5QyaD)`Amn(11) + Lem(20) + Ko(18)`</br>[最后的遗愿Last Wish](https://www.wolai.com/dyhongye/priYTWBjRkicTxMxCZzNfG)`Jah(31) + Mal(23) + Jah(31) + Sur(29) + Jah(31) + Ber(30)` |-|
 
