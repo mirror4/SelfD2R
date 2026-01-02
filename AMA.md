@@ -26,15 +26,15 @@
 
 |类型|装备|备注|
 |-|-|-|
-|**武器**|  [骄傲Pride](https://www.wolai.com/2Cz2Mrf18cmxKLaKj7ByEd) `Cham(32) + Sur(29) + Io(16) + Lo(28)` | 要20级专注光环加攻击 |
+|**武器**| [骄傲Pride](https://www.wolai.com/2Cz2Mrf18cmxKLaKj7ByEd) `Cham(32) + Sur(29) + Io(16) + Lo(28)` | 要20级专注光环加攻击 |
 |**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)` | - |
 |**头盔**| [安达利尔的面貌Andariel's Visage](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%AE%89%E8%BE%BE%E5%88%A9%E5%B0%94%E7%9A%84%E9%9D%A2%E8%B2%8C_(Diablo2)) | - |
 
 ## PET2
->噩梦难度 第二幕 米山(力量光环)
+>可汗
 
 |类型|装备|备注|
 |-|-|-|
-|**武器**|-|-|
-|**装甲**|-|-|
-|**头盔**|-|-|
+|**头盔**| [治愈Cure](https://www.wolai.com/dyhongye/rT9n1kmzFkHs8G3Y7g97YM)`Shael(13) + Io(16) + Tal(7)` |-|
+|**装甲**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)` |-|
+|**武器**| [执法者Lawbringer](https://www.wolai.com/dyhongye/k7HxSprfxn3HxJ2Gi5QyaD)`Amn(11) + Lem(20) + Ko(18)`</br>[最后的遗愿Last Wish](https://www.wolai.com/dyhongye/priYTWBjRkicTxMxCZzNfG)`Jah(31) + Mal(23) + Jah(31) + Sur(29) + Jah(31) + Ber(30)` |-|
