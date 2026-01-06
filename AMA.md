@@ -4,7 +4,7 @@
 ## 角色
 |类型|装备|说明|
 |-| - |-|
-|**武器**| [信心Faith(大院长+3弓与弩技能底材)](https://www.wolai.com/dyhongye/hycGH7TsPY1EU9H9pB2F79) </br>`Ohm(27) + Jah(31) + Lem(20) + Eld(2)`</br>[风之力Windforce(九头蛇弓)](https://wiki.d.163.com/index.php?title=%E9%A3%8E%E4%B9%8B%E5%8A%9B(Diablo_II))</br>[迷雾Mist](https://www.wolai.com/dyhongye/nqi64G3ZsDudj733AV8haT)`Cham(32) + Shael(13) + Gul(25) + Thul(10) + Ith(6)` | 残害好底材金弓+伤害加深+高ED+40攻速+等级提升MAX+2孔（天价物品） |
+|**武器**| [信心Faith(大院长+3弓与弩技能底材)](https://www.wolai.com/dyhongye/hycGH7TsPY1EU9H9pB2F79) </br>`Ohm(27) + Jah(31) + Lem(20) + Eld(2)`</br>[风之力Windforce(九头蛇弓)](https://wiki.d.163.com/index.php?title=%E9%A3%8E%E4%B9%8B%E5%8A%9B(Diablo_II))</br>[迷雾Mist(天梯)](https://www.wolai.com/dyhongye/nqi64G3ZsDudj733AV8haT)`Cham(32) + Shael(13) + Gul(25) + Thul(10) + Ith(6)` | 残害好底材金弓+伤害加深+高ED+40攻速+等级提升MAX+2孔（天价物品） |
 |**副手**| [撕裂者](https://wiki.d.163.com/index.php?title=Unique_Throwing_Weapons_(Diablo2)) | 点灯玩法，主手释放技能后切换副手，飞行的箭矢会触发副手的击中BUFF |
 |**头盔**| 速度之珠宝匠/工匠(+30高跑+3S) </br> 残害之珠宝匠/工匠 (+12MAX +3S) | 镶嵌 2颗白热之朱红+15攻速+15MAX  1颗屠杀之朱红 +30MAX</br>2白热之宝红+15攻速+40ED%   1颗屠杀之朱红+30MAX |
 |**衣服**| [刚毅堡垒Fortitude](https://www.wolai.com/dyhongye/pbBk2fYL8K7fLL95Pw9P24) `El(1) + Sol(12) + Dol(14) + Lo(28)`</br>[谜团Enigma](https://www.wolai.com/dyhongye/dQt17uzSZ4ppctys6Te2w6)`Jah(31) + Ith(6) + Ber(30)` | - |
