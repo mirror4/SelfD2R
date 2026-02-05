@@ -1,6 +1,8 @@
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
+  - [**艾尔多的守卫(Aldur's Watchtower)**](#艾尔多的守卫aldurs-watchtower)
+  - [**娜塔雅的非难(Natalya's Odium)**](#娜塔雅的非难natalyas-odium)
 - [绿装收集狂二](#绿装收集狂二)
   - [**不朽之王(Immortal King)**](#不朽之王immortal-king)
   - [**格瑞斯华尔德的传奇(Griswold's Legacy)**](#格瑞斯华尔德的传奇griswolds-legacy)
@@ -16,9 +18,11 @@
   - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
   - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
   - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
-- [暗金低档一](#暗金低档一)
-- [暗金中档一](#暗金中档一)
-
+- [暗金低档一(Lv40)](#暗金低档一lv40)
+- [暗金中档一(Lv70)](#暗金中档一lv70)
+- [暗金高档一](#暗金高档一)
+- [暗金毕业一](#暗金毕业一)
+- [符文之语一](#符文之语一)
 
 # 绿装收集狂一
 > 偏向法术加成和高属性加成的四套职业专属。
@@ -33,6 +37,8 @@
 | 塔拉夏的织细衣服(Tal Rasha's Fine-Spun Cloth) | 织网腰带(Belts) | - | 必须是 15% MF |
 | ✅塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) | 119Def | - |
 | 塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
+| - | - | - | - |
+| ✅塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | +2寒冰支配/+`1`闪电支配/+`2`火焰支配 | - |
 
 ## **[塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
 > 死灵(Necromance)
@@ -40,12 +46,12 @@
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
 | 塔格奥之束带(Trang-Oul's Girth) | 洞穴巨魔腰带 | - | - |
-| 塔格奥之爪(Trang-Oul's Claws) | 重型手镯 | - | - |
+| ✅塔格奥之爪(Trang-Oul's Claws) | 重型手镯 | 69Def | - |
 | 塔格奥之外装(Trang-Oul's Guise) | 骸骨面罩 | - | - |
 | 塔格奥之鳞(Trang-Oul's Scales) | 混沌战甲 | - | - |
 | 塔格奥之翼(Trang-Oul's Wing) | 领唱者印记 | - | - |
 
-* **[艾尔多的守卫(Aldur's Watchtower)](https://wiki.d.163.com/index.php?title=Aldur%27s_Watchtower_(Diablo2))**
+## **[艾尔多的守卫(Aldur's Watchtower)](https://wiki.d.163.com/index.php?title=Aldur%27s_Watchtower_(Diablo2))**
 > 德鲁伊(Necromance)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -55,7 +61,7 @@
 | 艾尔多的欺瞒(Aldur's Deception) | 战场之靴 | - | - |
 | 艾尔多的律动(Aldur's Rhythm) | 锯齿流星锤 | - | - |
 
-* **[娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
+## **[娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
 > 刺客(Assassin)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -147,7 +153,7 @@
 | - | - | - | - |
 | 娜吉的小环(Naj's Circlet) | 头饰 | - | - |
 | 娜吉的轻铠甲(Naj's Light Plate) | 地狱锻甲 | - | - |
-| 娜吉的解密棒(Naj's Puzzler) | 长老之杖 | - | - |
+| ✅娜吉的解密棒(Naj's Puzzler) | 长老之杖 | - | - |
 
 # 绿装收集狂四
 > 低等级（6-15级）即可穿戴，用来快速带大剩下的野蛮人等小号
@@ -193,25 +199,30 @@
 | 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
 | 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
 
-# 暗金低档一
+# 暗金低档一(Lv40)
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
 | [毕格因的软帽(Biggin's Bonnet)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AF%95%E6%A0%BC%E5%9B%A0%E7%9A%84%E8%BD%AF%E5%B8%BD_(Diablo2)) | 帽子 | 3 | 17Def | - |
+| [海蛇之王(Serpent Lord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B5%B7%E8%9B%87%E4%B9%8B%E7%8E%8B_(Diablo2)) | 长棍 | 9 | 39ED | - |
 | [迪格勒(The Diggler)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%AA%E6%A0%BC%E5%8B%92_(Diablo2)) | 长匕首 | 11 | - | - |
+| [蛇索(Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
+| [凋谢之戒Witherstring)](https://wiki.d.163.com/index.php?title=Unique_Bows_(Diablo2)) | 猎弓 | 13 | 44ED | - |
+| [凯松的征服(Treads of Cthon)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%87%AF%E6%9D%BE%E7%9A%84%E5%BE%81%E6%9C%8D_(Diablo2)) | 锁链靴 | 15 | 33ED | - |
 | [格瑞斯华尔德的锐利(Griswold's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%A0%BC%E7%91%9E%E6%96%AF%E5%8D%8E%E5%B0%94%E5%BE%B7%E7%9A%84%E9%94%90%E5%88%A9_(Diablo2)) | 阔剑 | 17 | 89ED/11-18FD | - |
+| [贝弗提的纪念(Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
+| [粗野之冠(Peasant Crown)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%B2%97%E9%87%8E%E4%B9%8B%E5%86%A0_(Diablo2)) | 战帽 | 28 | 11 Life REP | - |
+| [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
 | [凋谢之书(Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
 | [火锯之伤(Rakescar)](https://wiki.d.163.com/index.php?title=Unique_Axes_(Diablo2)) | 巨战斧 | 27 | 107ED | - |
-| [蛇索(Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
-| [贝弗提的纪念(Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
-| [凯松的征服(Treads of Cthon)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%87%AF%E6%9D%BE%E7%9A%84%E5%BE%81%E6%9C%8D_(Diablo2)) | 锁链靴 | 15 | 33ED | - |
-| [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
 | [摩西祝福之环(Moser's Blessed Circle)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%91%A9%E8%A5%BF%E7%A5%9D%E7%A6%8F%E4%B9%8B%E7%8E%AF_(Diablo2)) | 圆型盾 | 31 | 212ED | - |
+| [六角之火(Hexfire)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%AD%E8%A7%92%E4%B9%8B%E7%81%AB_(Diablo2)) | 虚伪之刃 | 33 | `160`ED | - |
 
-# 暗金中档一
+# 暗金中档一(Lv70)
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
+| [巫师之刺(Wizardspike)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B7%AB%E5%B8%88%E4%B9%8B%E5%88%BA_(Diablo2)) | 骸骨小刀 | 61 | - | - |
 | [巴拉那之星(Baranar's Star)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B7%B4%E6%8B%89%E9%82%A3%E4%B9%8B%E6%98%9F_(Diablo2)) | 恶魔流星锤 | 65 | - | - |
 | [刀锋边缘(Razor's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%88%80%E9%94%8B%E8%BE%B9%E7%BC%98_(Diablo2)) | 战戟 | 67 | 202ED | - |
 
@@ -225,12 +236,30 @@
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
-| [法师之拳 Magefist)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B3%95%E5%B8%88%E4%B9%8B%E6%8B%B3_(Diablo2)) | 轻型铁手套 | 23 | 24Def/21ED | - |
-| [蛇魔法师之皮Skin of the Vipermagi)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E9%AD%94%E6%B3%95%E5%B8%88%E4%B9%8B%E7%9A%AE_(Diablo2)) | 海蛇皮甲 | 29 | 279Def/28RES/10MDR | - |
-| [蜘蛛之网Arachnid Mesh)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9C%98%E8%9B%9B%E4%B9%8B%E7%BD%91_(Diablo2)) | 蛛网腰带 | 80 | 104ED | - |
+| [法师之拳(Magefist)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B3%95%E5%B8%88%E4%B9%8B%E6%8B%B3_(Diablo2)) | 轻型铁手套 | 23 | 24Def/21ED | - |
+| [蛇魔法师之皮(Skin of the Vipermagi)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E9%AD%94%E6%B3%95%E5%B8%88%E4%B9%8B%E7%9A%AE_(Diablo2)) | 海蛇皮甲 | 29 | 279Def/28RES/10MDR | - |
+| [雷击Thunderstroke)](https://wiki.d.163.com/index.php?title=%E9%9B%B7%E5%87%BB_(Diablo_II)) | 女族长之标枪 | 69 | `+4`Javazon/178ED | - |
+| [风之力Windforce)](https://wiki.d.163.com/index.php?title=%E9%A3%8E%E4%B9%8B%E5%8A%9B(Diablo_II)) | 九头蛇弓 | 73 | 6%LM | - |
+| [蜘蛛之网(Arachnid Mesh)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9C%98%E8%9B%9B%E4%B9%8B%E7%BD%91_(Diablo2)) | 蛛网腰带 | 80 | 104ED | - |
+
+
+# 符文之语一
+
+| 名称 | 类型 | 符文 | 等级 | 属性 | 说明 |
+| - | - | - | - | - | - |
+| [天底(Nadir)](https://wiki.d.163.com/index.php?title=Nadir_(Diablo_II)) | 2 凹槽 头盔 | Nef(4) + Tir(3) | 13 | - | - |
+| [叶子(Leaf)](https://wiki.d.163.com/index.php?title=Leaf_(Diablo_II)) | 2 凹槽 法杖* | Tir(3) + Ral(8) | 19 | - | - |
+| [精神剑(Spirit)](https://wiki.d.163.com/index.php?title=Spirit_(Diablo_II)) | 4 凹槽 剑/盾牌 | Tal(7) + Thul(10) + Ort(9) + Amn(11) | 25 | 28FRC/107mana/7MA | - |
+| [新月剑(Crescent Moon)](https://wiki.d.163.com/index.php?title=Crescent_Moon_(Diablo_II)) | 3 凹槽 斧头/剑/长棍 | Shael(13) + Um(22) + Tir(3) | 47 | 181ED/8MA | - |
+| [战争召唤*(Call to Arms)](https://wiki.d.163.com/index.php?title=Call_to_Arms_(Diablo_II)) | 5 凹槽 武器 | Amn(11) + Ral(8) + Mal(23) + Ist(24) + Ohm(27) | 57 | 262ED/2/1/1 | - |
+| [背叛(Treachery)](https://wiki.d.163.com/index.php?title=Treachery_(Diablo_II)) | 3 凹槽 盔甲 | Shael(13) + Thul(10) + Lem(20) | 43 | - | - |
+| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 27 | 17Meditation Aura</br>28-66Atk/218ED/244AR/2CS | - |
+| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 48 | 17Meditation Aura</br>62-514Atk/212ED/222AR/1CS | - |
+
 
 
 ```js
+//暗金
 (function(){
     console.clear();
     const items = Array.from(document.querySelectorAll('td')).filter(td => {
@@ -247,9 +276,45 @@
         const secondText = secondChild ? secondChild.textContent.trim() : "无";
 
         const tr = td.parentElement?.nextElementSibling?.nextElementSibling;
-        const match = tr.innerText.match(/(?:须要等级)\s*:\s*(\d+)/)
+        const match = tr.innerText.match(/(?:须要等级)\s*:\s*(\d+)/);
 
         text += `| [${firstText})](${window.location.href}) | ${secondText} | ${match[1]} | - | - |\r\n`;
+    });
+
+    console.log(text);
+    copy(text);
+})()
+```
+
+
+```js
+//符文之语
+(function(){
+    console.clear();
+    const getDirectText = (element) => {
+        return Array.from(element.childNodes)
+            .filter(node => node.nodeType === Node.TEXT_NODE)
+            .map(node => node.textContent.trim())
+            .join('');
+    };
+    const items = Array.from(document.querySelectorAll('td')).filter(td => {
+        const span = td.querySelector('span');
+        return span && span.getAttribute('style') && span.getAttribute('style').includes('color: #cebc86');
+    });
+
+    var text = '';
+    items.forEach((td, index) => {
+        const firstChild = td.childNodes[0];
+        const secondChild = td.childNodes[2];
+
+        const firstText = firstChild ? firstChild.textContent.trim() : "无";
+        const secondText = secondChild ? secondChild.textContent.trim() : "无";
+
+        const tr = td.parentElement?.nextElementSibling?.nextElementSibling;
+        const runewords = getDirectText(tr.childNodes[0].childNodes[0]);
+        const match = tr.innerText.match(/(?:需求等级)\s*:\s*(\d+)/);
+
+        text += `| [${firstText})](${window.location.href}) | ${secondText} | ${runewords} | ${match[1]} | - | - |\r\n`;
     });
 
     console.log(text);
