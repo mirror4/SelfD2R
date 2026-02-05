@@ -31,7 +31,7 @@
 | 塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | `0`/+2寒冰支配</br>`0`/+2闪电支配</br>`0`/+2火焰支配 | - |
 | 塔拉夏的守护(Tal Rasha's Guardianship) | 漆甲(Body Armor) | - | - |
 | 塔拉夏的织细衣服(Tal Rasha's Fine-Spun Cloth) | 织网腰带(Belts) | - | 必须是 15% MF |
-| 塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) `/131 | - |
+| ✅塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) | 119Def | - |
 | 塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
 
 ## **[塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
@@ -127,7 +127,7 @@
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
 | 述说之珠(Telling of Beads) | 项链 | - | - |
-| **手掌的安置**(Laying of Hands) | 荆棘连指手套 | - | - |
+| ✅**手掌的安置**(Laying of Hands) | 荆棘连指手套 | 85Def | - |
 | 黑暗信徒(Dark Adherent) | 灰幕寿衣 | - | - |
 | 仪式的走道(Rite of Passage) | 飞龙皮靴 | - | - |
 | 信条(Credendum) | 秘银腰带 | - | - |
