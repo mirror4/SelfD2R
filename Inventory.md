@@ -253,8 +253,8 @@
 | [新月剑(Crescent Moon)](https://wiki.d.163.com/index.php?title=Crescent_Moon_(Diablo_II)) | 3 凹槽 斧头/剑/长棍 | Shael(13) + Um(22) + Tir(3) | 47 | 181ED/8MA | - |
 | [战争召唤*(Call to Arms)](https://wiki.d.163.com/index.php?title=Call_to_Arms_(Diablo_II)) | 5 凹槽 武器 | Amn(11) + Ral(8) + Mal(23) + Ist(24) + Ohm(27) | 57 | 262ED/2/1/1 | - |
 | [背叛(Treachery)](https://wiki.d.163.com/index.php?title=Treachery_(Diablo_II)) | 3 凹槽 盔甲 | Shael(13) + Thul(10) + Lem(20) | 43 | - | - |
-| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 27 | 17Meditation Aura</br>28-66Atk/218ED/244AR/2CS | - |
-| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 48 | 17Meditation Aura</br>62-514Atk/212ED/222AR/1CS | - |
+| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 27 | 28-66Atk</br>17Meditation Aura</br>218ED/244AR/2CS | - |
+| [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 48 | 62-514Atk</br>17Meditation Aura</br>212ED/222AR/1CS | - |
 
 
 
