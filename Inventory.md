@@ -28,8 +28,8 @@
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | `0`/+2寒冰支配</br>`0`/+2闪电支配</br>`0`/+2火焰支配 | - |
-| 塔拉夏的守护(Tal Rasha's Guardianship) | 漆甲(Body Armor) | - | - |
+| ✅塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | +1寒冰支配/+`2`闪电支配/+`2`火焰支配 | - |
+| ✅塔拉夏的守护(Tal Rasha's Guardianship) | 漆甲(Body Armor) | 941Def | - |
 | 塔拉夏的织细衣服(Tal Rasha's Fine-Spun Cloth) | 织网腰带(Belts) | - | 必须是 15% MF |
 | ✅塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) | 119Def | - |
 | 塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
@@ -214,6 +214,20 @@
 | - | - | - | - | - |
 | [巴拉那之星(Baranar's Star)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B7%B4%E6%8B%89%E9%82%A3%E4%B9%8B%E6%98%9F_(Diablo2)) | 恶魔流星锤 | 65 | - | - |
 | [刀锋边缘(Razor's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%88%80%E9%94%8B%E8%BE%B9%E7%BC%98_(Diablo2)) | 战戟 | 67 | 202ED | - |
+
+# 暗金高档一
+
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| - | - | - | - | - |
+
+# 暗金毕业一
+
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| [法师之拳 Magefist)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B3%95%E5%B8%88%E4%B9%8B%E6%8B%B3_(Diablo2)) | 轻型铁手套 | 23 | 24Def/21ED | - |
+| [蛇魔法师之皮Skin of the Vipermagi)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E9%AD%94%E6%B3%95%E5%B8%88%E4%B9%8B%E7%9A%AE_(Diablo2)) | 海蛇皮甲 | 29 | 279Def/28RES/10MDR | - |
+| [蜘蛛之网Arachnid Mesh)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9C%98%E8%9B%9B%E4%B9%8B%E7%BD%91_(Diablo2)) | 蛛网腰带 | 80 | 104ED | - |
 
 
 ```js
