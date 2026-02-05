@@ -1,7 +1,26 @@
+- [绿装收集狂一](#绿装收集狂一)
+  - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
+  - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
+- [绿装收集狂二](#绿装收集狂二)
+  - [**不朽之王(Immortal King)**](#不朽之王immortal-king)
+  - [**格瑞斯华尔德的传奇(Griswold's Legacy)**](#格瑞斯华尔德的传奇griswolds-legacy)
+  - [**马维娜的战斗诗歌(M'avina's Battle Hymn)**](#马维娜的战斗诗歌mavinas-battle-hymn)
+  - [**布尔凯索的孩子(Bul-Kathos' Children)**](#布尔凯索的孩子bul-kathos-children)
+- [绿装收集狂三](#绿装收集狂三)
+  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
+  - [**门徒(The Disciple)**](#门徒the-disciple)
+  - [**孤儿的呼唤(Orphan's Call)**](#孤儿的呼唤orphans-call)
+  - [**娜吉的古代遗迹(Naj's Ancient Vestige)**](#娜吉的古代遗迹najs-ancient-vestige)
+- [绿装收集狂四](#绿装收集狂四)
+  - [**西刚的全套刀剑(Sigon's Complete Steel)**](#西刚的全套刀剑sigons-complete-steel)
+  - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
+  - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
+  - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
+
 # 绿装收集狂一
 > 偏向法术加成和高属性加成的四套职业专属。
 
-* **[塔拉夏的外袍(Tal Rasha's Wrappings)](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))**
+## **[塔拉夏的外袍(Tal Rasha's Wrappings)](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))**
 > 法师(Sorceress)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -12,7 +31,7 @@
 | 塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) `/131 | - |
 | 塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
 
-* **[塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
+## **[塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
 > 死灵(Necromance)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -46,7 +65,7 @@
 # 绿装收集狂二
 > 占地面积大（如 6x2 的大锤子）或件数多的物理/职业大套
 
-* **[不朽之王(Immortal King)](https://wiki.d.163.com/index.php?title=Immortal_King_(Diablo2))**
+## **[不朽之王(Immortal King)](https://wiki.d.163.com/index.php?title=Immortal_King_(Diablo2))**
 > 野蛮人(Barbarian)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -58,7 +77,7 @@
 | 不朽之王之柱(Immortal King's Pillar) | 巨战之靴 | - | - |
 | 不朽之王的意志(Immortal King's Will) | 复仇者之盔 | - | - |
 
-* **[格瑞斯华尔德的传奇(Griswold's Legacy)](https://wiki.d.163.com/index.php?title=Griswold%27s_Legacy_(Diablo2))**
+## **[格瑞斯华尔德的传奇(Griswold's Legacy)](https://wiki.d.163.com/index.php?title=Griswold%27s_Legacy_(Diablo2))**
 > 圣骑士(Paladin)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -68,7 +87,7 @@
 | 格瑞斯华尔德的救赎(Griswold's Redemption) | 神使之杖 | - | - |
 | 格瑞斯华尔德荣耀(Griswold's Honor) | 旋风盾 | - | - |
 
-* **[马维娜的战斗诗歌(M'avina's Battle Hymn)](https://wiki.d.163.com/index.php?title=M%27avina%27s_Battle_Hymn_(Diablo2))**
+## **[马维娜的战斗诗歌(M'avina's Battle Hymn)](https://wiki.d.163.com/index.php?title=M%27avina%27s_Battle_Hymn_(Diablo2))**
 > 亚马逊(Amazon)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -79,7 +98,7 @@
 | 马维娜的冰握(M'avina's Icy Clutch) | 战场手套 | - | - |
 | 马维娜的教义(M'avina's Tenet) | 鲨皮腰带 | - | 必须是 15% MF |
 
-* **[布尔凯索的孩子(Bul-Kathos' Children)](https://wiki.d.163.com/index.php?title=Bul-Kathos%27_Children_(Diablo2))**
+## **[布尔凯索的孩子(Bul-Kathos' Children)](https://wiki.d.163.com/index.php?title=Bul-Kathos%27_Children_(Diablo2))**
 > 野蛮人双剑(Barbarian)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -90,7 +109,7 @@
 # 绿装收集狂三
 > 适合给佣兵使用、提供特殊功能（如传送）或物理系通用的精英套装
 
-* **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
+## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
 > 第五幕佣兵神装
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -100,7 +119,7 @@
 | 沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer) | 神秘之剑 | - | - |
 
 
-* **[门徒(The Disciple)](https://wiki.d.163.com/index.php?title=The_Disciple_(Diablo2))**
+## **[门徒(The Disciple)](https://wiki.d.163.com/index.php?title=The_Disciple_(Diablo2))**
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
@@ -110,7 +129,7 @@
 | 仪式的走道(Rite of Passage) | 飞龙皮靴 | - | - |
 | 信条(Credendum) | 秘银腰带 | - | - |
 
-* **[孤儿的呼唤(Orphan's Call)](https://wiki.d.163.com/index.php?title=Orphan%27s_Call_(Diablo2))**
+## **[孤儿的呼唤(Orphan's Call)](https://wiki.d.163.com/index.php?title=Orphan%27s_Call_(Diablo2))**
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
@@ -119,7 +138,7 @@
 | 马格纳斯之皮(Magnus' Skin) | 鲨皮手套 | - | - |
 | 吉永之脸(Guillaume's Face) | 翼盔 | - | - |
 
-* **[娜吉的古代遗迹(Naj's Ancient Vestige)](https://wiki.d.163.com/index.php?title=Naj%27s_Ancient_Vestige_(Diablo2))**
+## **[娜吉的古代遗迹(Naj's Ancient Vestige)](https://wiki.d.163.com/index.php?title=Naj%27s_Ancient_Vestige_(Diablo2))**
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
@@ -130,7 +149,7 @@
 # 绿装收集狂四
 > 低等级（6-15级）即可穿戴，用来快速带大剩下的野蛮人等小号
 
-* **[西刚的全套刀剑(Sigon's Complete Steel)](https://wiki.d.163.com/index.php?title=Sigon%27s_Complete_Steel_(Diablo2))**
+## **[西刚的全套刀剑(Sigon's Complete Steel)](https://wiki.d.163.com/index.php?title=Sigon%27s_Complete_Steel_(Diablo2))**
 > 6级练级之王
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -142,7 +161,7 @@
 | 西刚的木鞋(Sigon's Sabot) | 护胫 | - | - |
 | 西刚的面甲(Sigon's Visor) | 卓越头盔 | - | - |
 
-* **[天上的衣服(Angelic Raiment)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2))**
+## **[天上的衣服(Angelic Raiment)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2))**
 > 12级解决命中问题
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -152,7 +171,7 @@
 | 天使的镰刀(Angelic Sickle) | 单手剑 | - | - |
 | 天使的斗篷(Angelic Mantle) | 链锁衣 | - | - |
 
-* **[死亡的伪装(Death's Disguise)](https://wiki.d.163.com/index.php?title=Death%27s_Disguise_(Diablo2))**
+## **[死亡的伪装(Death's Disguise)](https://wiki.d.163.com/index.php?title=Death%27s_Disguise_(Diablo2))**
 > 6级极速
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -161,7 +180,7 @@
 | 死亡之手(Death's Hand) | 皮手套 | - | - |
 | 死亡的守护(Death's Guard) | 饰带 | - | - |
 
-* **[依雷撒的精洗炉(Iratha's Finery)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2))**
+## **[依雷撒的精洗炉(Iratha's Finery)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2))**
 > 提升抗性上限到85%
 
 | 名称 | 类型 | 属性 | 说明 |
