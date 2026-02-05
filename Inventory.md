@@ -190,4 +190,52 @@
 | 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
 | 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
 
+# 暗金低档一
 
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| [毕格因的软帽Biggin's Bonnet)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AF%95%E6%A0%BC%E5%9B%A0%E7%9A%84%E8%BD%AF%E5%B8%BD_(Diablo2)) | 帽子 | 3 | 17Def | - |
+| [迪格勒The Diggler)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%AA%E6%A0%BC%E5%8B%92_(Diablo2)) | 长匕首 | 11 | - | - |
+| [格瑞斯华尔德的锐利Griswold's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%A0%BC%E7%91%9E%E6%96%AF%E5%8D%8E%E5%B0%94%E5%BE%B7%E7%9A%84%E9%94%90%E5%88%A9_(Diablo2)) | 阔剑 | 17 | 89ED/11-18FD | - |
+| [凋谢之书Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
+| [火锯之伤Rakescar)](https://wiki.d.163.com/index.php?title=Unique_Axes_(Diablo2)) | 巨战斧 | 27 | 107ED | - |
+| [蛇索Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
+| [贝弗提的纪念Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
+| [凯松的征服Treads of Cthon)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%87%AF%E6%9D%BE%E7%9A%84%E5%BE%81%E6%9C%8D_(Diablo2)) | 锁链靴 | 15 | 33ED | - |
+| [囚房The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
+| [摩西祝福之环Moser's Blessed Circle)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%91%A9%E8%A5%BF%E7%A5%9D%E7%A6%8F%E4%B9%8B%E7%8E%AF_(Diablo2)) | 圆型盾 | 31 | 212ED | - |
+
+# 暗金中档一
+
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| [巴拉那之星Baranar's Star)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B7%B4%E6%8B%89%E9%82%A3%E4%B9%8B%E6%98%9F_(Diablo2)) | 恶魔流星锤 | 65 | - | - |
+| [刀锋边缘Razor's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%88%80%E9%94%8B%E8%BE%B9%E7%BC%98_(Diablo2)) | 战戟 | 67 | 202ED | - |
+
+
+```js
+(function(){
+    console.clear();
+    const items = Array.from(document.querySelectorAll('td')).filter(td => {
+        const span = td.querySelector('span');
+        return span && span.getAttribute('style') && span.getAttribute('style').includes('color: #cebc86');
+    });
+
+    var text = '';
+    items.forEach((td, index) => {
+        const firstChild = td.childNodes[0];
+        const secondChild = td.childNodes[2];
+
+        const firstText = firstChild ? firstChild.textContent.trim() : "无";
+        const secondText = secondChild ? secondChild.textContent.trim() : "无";
+
+        const tr = td.parentElement?.nextElementSibling?.nextElementSibling;
+        const match = tr.innerText.match(/(?:须要等级)\s*:\s*(\d+)/)
+
+        text += `| [${firstText})](${window.location.href}) | ${secondText} | ${match[1]} | - | - |\r\n`;
+    });
+
+    console.log(text);
+    copy(text);
+})()
+```
