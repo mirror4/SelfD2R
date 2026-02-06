@@ -166,7 +166,7 @@
 | 西刚的遮蔽(Sigon's Shelter) | 歌德战甲 | - | - |
 | 西刚的守护(Sigon's Guard) | 塔盾 | - | - |
 | 西刚的披肩(Sigon's Wrap) | 金属扣带 | - | - |
-| 西刚的挑战(Sigon's Gage) | 铁手套 | - | - |
+| ✅西刚的挑战(Sigon's Gage) | 铁手套 | `15Def` | - |
 | 西刚的木鞋(Sigon's Sabot) | 护胫 | - | - |
 | 西刚的面甲(Sigon's Visor) | 卓越头盔 | - | - |
 
