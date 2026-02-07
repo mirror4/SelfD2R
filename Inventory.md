@@ -211,9 +211,11 @@
 | [蛇索(Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
 | [凋谢之戒(Witherstring)](https://wiki.d.163.com/index.php?title=Unique_Bows_(Diablo2)) | 猎弓 | 13 | 44ED | - |
 | [光荣布帽(Coif of Glory)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%89%E8%8D%A3%E5%B8%83%E5%B8%BD_(Diablo2)) | 头盔 | 14 | 27Def | - |
+| [血升Bloodrise)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%A1%80%E5%8D%87_(Diablo2)) | 流星槌 | 15 | - | - |
 | [凯松的征服(Treads of Cthon)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%87%AF%E6%9D%BE%E7%9A%84%E5%BE%81%E6%9C%8D_(Diablo2)) | 锁链靴 | 15 | 33ED | - |
 | [格瑞斯华尔德的锐利(Griswold's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%A0%BC%E7%91%9E%E6%96%AF%E5%8D%8E%E5%B0%94%E5%BE%B7%E7%9A%84%E9%94%90%E5%88%A9_(Diablo2)) | 阔剑 | 17 | 89ED/11-18FD | - |
 | [火花之甲(Sparking Mail)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%81%AB%E8%8A%B1%E4%B9%8B%E7%94%B2_(Diablo2)) | 锁子甲 | 17 | +84%ED/10ATLD | - |
+| [黄昏深处 Duskdeep)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%BB%84%E6%98%8F%E6%B7%B1%E5%A4%84_(Diablo2)) | 高级头盔 | 17 | +34%ED/+14Def | - |
 | [贝弗提的纪念(Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
 | [小妖精脚趾 (Goblin Toe)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B0%8F%E5%A6%96%E7%B2%BE%E8%84%9A%E8%B6%BE_(Diablo2)) | 轻型金属靴 | 22 | 52ED | - |
 | [妖怪碎片(Spectral Shard)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A6%96%E6%80%AA%E7%A2%8E%E7%89%87_(Diablo2)) | 短刀 | 25 | - | - |
