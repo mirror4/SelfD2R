@@ -163,7 +163,7 @@
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 西刚的遮蔽(Sigon's Shelter) | 歌德战甲 | - | - |
+| ✅西刚的遮蔽(Sigon's Shelter) | 歌德战甲 | - | - |
 | 西刚的守护(Sigon's Guard) | 塔盾 | - | - |
 | 西刚的披肩(Sigon's Wrap) | 金属扣带 | - | - |
 | ✅西刚的挑战(Sigon's Gage) | 铁手套 | `15Def` | - |
