@@ -69,7 +69,7 @@
 | 娜塔亚的图腾(Natalya's Totem) | 残酷头盔 | - | - |
 | 娜塔亚的标记(Natalya's Mark) | 近身剪 | - | - |
 | ✅娜塔亚的影子(Natalya's Shadow) | 甲壳铠鳞甲 | 655Def/+173Def/`3S` | 最好是 3 孔 |
-| 娜塔亚的灵魂(Natalya's Soul) | 织网之靴 | - | - |
+| ✅娜塔亚的灵魂(Natalya's Soul) | 织网之靴 | +97Def | - |
 
 # 绿装收集狂二
 > 占地面积大（如 6x2 的大锤子）或件数多的物理/职业大套
@@ -135,7 +135,7 @@
 | 述说之珠(Telling of Beads) | 项链 | - | - |
 | ✅**手掌的安置**(Laying of Hands) | 荆棘连指手套 | 85Def | - |
 | 黑暗信徒(Dark Adherent) | 灰幕寿衣 | - | - |
-| 仪式的走道(Rite of Passage) | 飞龙皮靴 | - | - |
+| ✅仪式的走道(Rite of Passage) | 飞龙皮靴 | 55Def | - |
 | 信条(Credendum) | 秘银腰带 | - | - |
 
 ## **[孤儿的呼唤(Orphan's Call)](https://wiki.d.163.com/index.php?title=Orphan%27s_Call_(Diablo2))**
@@ -165,7 +165,7 @@
 | - | - | - | - |
 | ✅西刚的遮蔽(Sigon's Shelter) | 歌德战甲 | - | - |
 | 西刚的守护(Sigon's Guard) | 塔盾 | - | - |
-| 西刚的披肩(Sigon's Wrap) | 金属扣带 | - | - |
+| ✅西刚的披肩(Sigon's Wrap) | 金属扣带 | 9Def | - |
 | ✅西刚的挑战(Sigon's Gage) | 铁手套 | `15Def` | - |
 | 西刚的木鞋(Sigon's Sabot) | 护胫 | - | - |
 | 西刚的面甲(Sigon's Visor) | 卓越头盔 | - | - |
@@ -175,9 +175,9 @@
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 天使的光晕(Angelic Halo) | 戒指 | - | - |
+| ✅天使的光晕(Angelic Halo) | 戒指 | - | - |
 | 天使之翼(Angelic Wings) | 项链 | - | - |
-| 天使的镰刀(Angelic Sickle) | 单手剑 | - | - |
+| ✅天使的镰刀(Angelic Sickle) | 单手剑 | 3-8 DMG | - |
 | 天使的斗篷(Angelic Mantle) | 链锁衣 | - | - |
 
 ## **[死亡的伪装(Death's Disguise)](https://wiki.d.163.com/index.php?title=Death%27s_Disguise_(Diablo2))**
@@ -185,7 +185,7 @@
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 死亡之触(Death's Touch) | 巨战之剑 | - | - |
+| ✅死亡之触(Death's Touch) | 巨战之剑 | - | - |
 | 死亡之手(Death's Hand) | 皮手套 | - | - |
 | 死亡的守护(Death's Guard) | 饰带 | - | - |
 
