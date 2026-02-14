@@ -18,7 +18,8 @@
   - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
   - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
   - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
-- [暗金低档一(Lv40)](#暗金低档一lv40)
+- [暗金低档一(Lv26)](#暗金低档一lv26)
+- [暗金低档二(Lv40)](#暗金低档二lv40)
 - [暗金中档一(Lv70)](#暗金中档一lv70)
 - [暗金高档一](#暗金高档一)
 - [暗金毕业一](#暗金毕业一)
@@ -199,7 +200,7 @@
 | 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
 | 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
 
-# 暗金低档一(Lv40)
+# 暗金低档一(Lv26)
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
@@ -219,12 +220,17 @@
 | [贝弗提的纪念(Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
 | [小妖精脚趾 (Goblin Toe)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B0%8F%E5%A6%96%E7%B2%BE%E8%84%9A%E8%B6%BE_(Diablo2)) | 轻型金属靴 | 22 | 52ED | - |
 | [妖怪碎片(Spectral Shard)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A6%96%E6%80%AA%E7%A2%8E%E7%89%87_(Diablo2)) | 短刀 | 25 | - | - |
+| [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
+| [凋谢之书(Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
+
+# 暗金低档二(Lv40)
+
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| [火锯之伤(Rakescar)](https://wiki.d.163.com/index.php?title=Unique_Axes_(Diablo2)) | 巨战斧 | 27 | 107ED | - |
 | [粗野之冠(Peasant Crown)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%B2%97%E9%87%8E%E4%B9%8B%E5%86%A0_(Diablo2)) | 战帽 | 28 | 11 Life REP | - |
 | [霜燃 (Frostburn)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%9C%9C%E7%87%83_(Diablo2)) | 铁手套 | 29 | 49Def/`+20%ED` | - |
 | [剧毒之抓(Venom Grip)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%89%A7%E6%AF%92%E4%B9%8B%E6%8A%93_(Diablo2)) | 魔皮手套 | 29 | +146%ED/+16Deff | - |
-| [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
-| [凋谢之书(Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
-| [火锯之伤(Rakescar)](https://wiki.d.163.com/index.php?title=Unique_Axes_(Diablo2)) | 巨战斧 | 27 | 107ED | - |
 | [摩西祝福之环(Moser's Blessed Circle)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%91%A9%E8%A5%BF%E7%A5%9D%E7%A6%8F%E4%B9%8B%E7%8E%AF_(Diablo2)) | 圆型盾 | 31 | +214% ED | - |
 | [社角久子(Kuko Shakaku)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%A4%BE%E8%A7%92%E4%B9%85%E5%AD%90) | 杉木弓 | 33 | `+180 ED` | - |
 | [六角之火(Hexfire)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%AD%E8%A7%92%E4%B9%8B%E7%81%AB_(Diablo2)) | 虚伪之刃 | 33 | `+160% ED` | - |
