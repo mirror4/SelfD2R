@@ -208,6 +208,8 @@
 | [毕格因的软帽(Biggin's Bonnet)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AF%95%E6%A0%BC%E5%9B%A0%E7%9A%84%E8%BD%AF%E5%B8%BD_(Diablo2)) | 帽子 | 3 | 17Def | - |
 | [海鸥(Gull)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B5%B7%E9%B8%A5_(Diablo2)) | 匕首 | 4 | - | +100% MF |
 | [血红新月(Blood Crescent)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%A1%80%E7%BA%A2%E6%96%B0%E6%9C%88_(Diablo2)) | 弯刀 | 7 | +72%ED | - |
+| [压碎的凸边Crushflange)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%8E%8B%E7%A2%8E%E7%9A%84%E5%87%B8%E8%BE%B9_(Diablo2)) | 钉头锤 | 9 | `+60%ED` | - |
+| [阴影圆盘Umbral Disk)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%98%B4%E5%BD%B1%E5%9C%86%E7%9B%98_(Diablo2)&redirect=no) | 小盾牌 | 9 | +44%ED | - |
 | [迪格勒(The Diggler)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%AA%E6%A0%BC%E5%8B%92_(Diablo2)) | 长匕首 | 11 | - | - |
 | [蛇索(Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
 | [凋谢之戒(Witherstring)](https://wiki.d.163.com/index.php?title=Unique_Bows_(Diablo2)) | 猎弓 | 13 | 44ED | - |
@@ -324,7 +326,7 @@
     });
 
     var text = '';
-    items.forEach(td, index) => {
+    items.forEach((td, index) => {
         const firstChild = td.childNodes[0];
         const secondChild = td.childNodes[2];
 
@@ -359,7 +361,7 @@
     });
 
     var text = '';
-    items.forEach(td, index) => {
+    items.forEach((td, index) => {
         const firstChild = td.childNodes[0];
         const secondChild = td.childNodes[2];
 
