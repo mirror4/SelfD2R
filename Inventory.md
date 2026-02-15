@@ -104,7 +104,7 @@
 | - | - | - | - |
 | ✅马维娜的真实之眼(M'avina's True Sight) | 权冠 | 206Def | - |
 | 马维娜的施展(M'avina's Caster) | 大族长之弓 | - | - |
-| ✅马维娜的拥抱(M'avina's Embrace) | 海妖壳甲 | 808Def/8MDR | - |
+| ✅马维娜的拥抱(M'avina's Embrace) | 海妖壳甲 | 520Def/`12MDR` | - |
 | ✅马维娜的冰握(M'avina's Icy Clutch) | 战场手套 | 92Def/+`50`Def | - |
 | ✅马维娜的教义(M'avina's Tenet) | 鲨皮腰带 | 85Def/ | - |
 
