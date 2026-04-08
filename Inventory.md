@@ -59,7 +59,7 @@
 | - | - | - | - |
 | 艾尔多的冷酷凝视(Aldur's Stony Gaze) | 猎人的伪装 | - | - |
 | 艾尔多的成长(Aldur's Advance) | 战场之靴 | - | 必须是 +50% 火抗(FR) |
-| 艾尔多的欺瞒(Aldur's Deception) | 战场之靴 | - | - |
+| 艾尔多的欺瞒(Aldur's Deception) | 阴影铠甲 | - | - |
 | 艾尔多的律动(Aldur's Rhythm) | 锯齿流星锤 | - | - |
 
 ## **[娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
