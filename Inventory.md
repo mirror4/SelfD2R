@@ -317,7 +317,6 @@
 
 # 暗金.js
 ```js
-//暗金
 (function(){
     console.clear();
     const items = Array.from(document.querySelectorAll('td')).filter(td => {
@@ -347,7 +346,6 @@
 # 符文之语.js
 
 ```js
-//符文之语
 (function(){
     console.clear();
     const getDirectText = (element) => {
@@ -374,6 +372,41 @@
         const match = tr.innerText.match(/(?:需求等级)\s*:\s*(\d+)/);
 
         text += `| [${firstText})](${window.location.href}) | ${secondText} | ${runewords} | ${match[1]} | - | - |\r\n`;
+    });
+
+    console.log(text);
+    copy(text);
+})()
+```
+
+# 绿装.js
+
+```js
+(function(){
+    console.clear();
+    const getDirectText = (element) => {
+        return Array.from(element.childNodes)
+            .filter(node => node.nodeType === Node.TEXT_NODE)
+            .map(node => node.textContent.trim())
+            .join('');
+    };
+    const items = Array.from(document.querySelectorAll('td')).filter(td => {
+        const span = td.querySelector('span');
+        return span && span.getAttribute('style') && span.getAttribute('style').includes('color: #00c400');
+    });
+
+    var text = '';
+    items.forEach((td, index) => {
+        const firstChild = td.childNodes[0];
+        const secondChild = td.childNodes[2];
+
+        const firstText = firstChild ? firstChild.textContent.trim() : "无";
+        const secondText = secondChild ? secondChild.textContent.trim() : "无";
+
+        const tr = td.parentElement?.nextElementSibling?.nextElementSibling;
+        const match = tr.innerText.match(/(?:级别)\s*:\s*(\d+)/);
+
+        text += `| [${firstText})](${window.location.href}) | ${secondText} | ${match[1]} | - | - |\r\n`;
     });
 
     console.log(text);
