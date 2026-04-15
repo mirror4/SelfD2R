@@ -315,7 +315,7 @@
 | [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 48 | 62-514Atk</br>17Meditation Aura</br>212ED/222AR/1CS | - |
 
 
-
+# 暗金.js
 ```js
 //暗金
 (function(){
@@ -344,6 +344,7 @@
 })()
 ```
 
+# 符文之语.js
 
 ```js
 //符文之语
