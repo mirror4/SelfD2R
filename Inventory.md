@@ -18,6 +18,7 @@
   - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
   - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
   - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
+- [开荒绿装](#开荒绿装)
 - [暗金低档一(Lv26)](#暗金低档一lv26)
 - [暗金低档二(Lv40)](#暗金低档二lv40)
 - [暗金中档一(Lv70)](#暗金中档一lv70)
