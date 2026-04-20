@@ -211,6 +211,9 @@
 | [北极手套Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套 | 2 | - | - |
 | [北极捆缚Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带 | 2 | - | - |
 | [依森哈德的号角Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔 | 8 | - | - |
+| [卡珊的封印Cathan's Seal)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 戒指 | 11 | - | - |
+| [天使的光晕Angelic Halo)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 戒指 | 12 | - | - |
+| [天使之翼Angelic Wings)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 项链 | 12 | - | - |
 | [维达拉的距毛Vidala's Fetlock)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 轻金属靴 | 14 | - | - |
 | [维达拉的陷阱Vidala's Snare)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 项链 | 14 | - | - |
 
