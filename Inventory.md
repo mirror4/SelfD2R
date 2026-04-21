@@ -206,17 +206,17 @@
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
-| [北极号角(Arctic Horn)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 短巨战弓 | 2 | - | - |
-| [北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲 | 2 | - | - |
+| ✅[北极号角(Arctic Horn)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 短巨战弓 | 2 | - | - |
+| ✅[北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲 | 2 | - | - |
 | [北极手套(Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套 | 2 | - | - |
 | [北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带 | 2 | - | - |
-| [依森哈德的号角(Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔 | 8 | - | - |
-| [卡珊的封印(Cathan's Seal)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 戒指 | 11 | - | - |
-| [天使的光晕(Angelic Halo)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 戒指 | 12 | - | - |
+| ✅[依森哈德的号角(Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔 | 8 | - | - |
+| ✅[卡珊的封印(Cathan's Seal)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 戒指 | 11 | - | - |
+| ✅[天使的光晕(Angelic Halo)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 戒指 | 12 | - | - |
 | [天使之翼(Angelic Wings)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 项链 | 12 | - | - |
 | [维达拉的距毛(Vidala's Fetlock)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 轻金属靴 | 14 | - | - |
 | [维达拉的陷阱(Vidala's Snare)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 项链 | 14 | - | - |
-| [维达拉之倒刺Vidala's Barb)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 长巨战弓 | 14 | - | - |
+| ✅[维达拉之倒刺Vidala's Barb)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 长巨战弓 | 14 | - | - |
 | [维达拉的突袭Vidala's Ambush)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 皮甲 | 14 | - | - |
 
 # 暗金低档一(Lv26)
