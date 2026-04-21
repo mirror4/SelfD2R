@@ -209,7 +209,7 @@
 | ✅[北极号角(Arctic Horn)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 短巨战弓✅ | 2 | - | - |
 | [北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲✅ | 2 | - | - |
 | ✅[北极手套(Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套✅ | 2 | - | - |
-| [北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带✅ | 2 | - | - |
+| ✅[北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带✅ | 2 | - | - |
 | ✅[狂战士的头戴(Berserker's Headgear)](https://wiki.d.163.com/index.php?title=Berserker%27s_Arsenal_(Diablo2)) | 头盔 | 3 | - | - |
 | ✅[哈斯拉柏的铁后跟(Hsarus' Iron Heel)](https://wiki.d.163.com/index.php?title=Hsarus%27_Defense_(Diablo2)) | 锁链靴 | 3 | - | - |
 | ✅[依森哈德的号角(Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔✅ | 8 | - | - |
