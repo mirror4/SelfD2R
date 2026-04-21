@@ -210,8 +210,8 @@
 | [北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲✅ | 2 | - | - |
 | ✅[北极手套(Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套✅ | 2 | - | - |
 | [北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带✅ | 2 | - | - |
-| ✅[狂战士的头戴Berserker's Headgear)](https://wiki.d.163.com/index.php?title=Berserker%27s_Arsenal_(Diablo2)) | 头盔 | 3 | - | - |
-| ✅[哈斯拉柏的铁后跟Hsarus' Iron Heel)](https://wiki.d.163.com/index.php?title=Hsarus%27_Defense_(Diablo2)) | 锁链靴 | 3 | - | - |
+| ✅[狂战士的头戴(Berserker's Headgear)](https://wiki.d.163.com/index.php?title=Berserker%27s_Arsenal_(Diablo2)) | 头盔 | 3 | - | - |
+| ✅[哈斯拉柏的铁后跟(Hsarus' Iron Heel)](https://wiki.d.163.com/index.php?title=Hsarus%27_Defense_(Diablo2)) | 锁链靴 | 3 | - | - |
 | ✅[依森哈德的号角(Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔✅ | 8 | - | - |
 | ✅[卡珊的封印(Cathan's Seal)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 戒指✅ | 11 | - | - |
 | ✅[卡珊的魔咒Cathan's Sigil)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 项链 | 11 | - | - |
@@ -221,6 +221,8 @@
 | [维达拉的陷阱(Vidala's Snare)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 项链✅ | 14 | - | - |
 | ✅[维达拉之倒刺(Vidala's Barb)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 长巨战弓 | 14 | - | - |
 | ✅[维达拉的突袭(Vidala's Ambush)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 皮甲 | 14 | - | - |
+| [依雷撒的项圈(Iratha's Collar)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 项链 | 15 | - | - |
+| ✅[依雷撒的线圈(Iratha's Coil)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 皇冠 | 15 | - | - |
 
 # 暗金低档一(Lv26)
 
