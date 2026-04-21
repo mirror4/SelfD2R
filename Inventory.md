@@ -207,7 +207,7 @@
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
 | ✅[北极号角(Arctic Horn)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 短巨战弓✅ | 2 | - | - |
-| [北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲✅ | 2 | - | - |
+| ✅[北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲✅ | 2 | - | - |
 | ✅[北极手套(Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套✅ | 2 | - | - |
 | ✅[北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带✅ | 2 | - | - |
 | ✅[狂战士的头戴(Berserker's Headgear)](https://wiki.d.163.com/index.php?title=Berserker%27s_Arsenal_(Diablo2)) | 头盔 | 3 | - | - |
