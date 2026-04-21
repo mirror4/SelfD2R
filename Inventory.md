@@ -216,6 +216,8 @@
 | [天使之翼(Angelic Wings)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 项链 | 12 | - | - |
 | [维达拉的距毛(Vidala's Fetlock)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 轻金属靴 | 14 | - | - |
 | [维达拉的陷阱(Vidala's Snare)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 项链 | 14 | - | - |
+| [维达拉之倒刺Vidala's Barb)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 长巨战弓 | 14 | - | - |
+| [维达拉的突袭Vidala's Ambush)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 皮甲 | 14 | - | - |
 
 # 暗金低档一(Lv26)
 
