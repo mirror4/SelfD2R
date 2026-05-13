@@ -1,4 +1,5 @@
 # TOC
+- [TOC](#toc)
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
@@ -19,6 +20,7 @@
   - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
   - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
   - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
+- [开荒配装](#开荒配装)
 - [开荒绿装](#开荒绿装)
 - [暗金低档一(Lv26)](#暗金低档一lv26)
 - [暗金低档二(Lv40)](#暗金低档二lv40)
@@ -26,6 +28,9 @@
 - [暗金高档一](#暗金高档一)
 - [暗金毕业一](#暗金毕业一)
 - [符文之语一](#符文之语一)
+- [暗金.js](#暗金js)
+- [符文之语.js](#符文之语js)
+- [绿装.js](#绿装js)
 
 # 绿装收集狂一
 > 偏向法术加成和高属性加成的四套职业专属。
@@ -207,6 +212,146 @@
 | 依雷撒之绳(Iratha's Cord) | 重扣带 | - | - |
 | 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
 | 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
+
+[TOP](#TOC)
+
+# 开荒配装
+
+<table>
+  <tr>
+    <th>名称</th>
+    <th>类型</th>
+    <th>等级</th>
+    <th>要求</th>
+    <th>属性</th>
+    <th>增益</th>
+    <th>套装</th>
+    <th>人物</th>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">北极皮毛(Arctic Furs)</td>
+    <td>布甲</td>
+    <td>2</td>
+    <td>力量: 12</td>
+    <td>+275-325% EDef</br>+10 RES</td>
+    <td>+(3 / Lv )2️⃣</br>+15% CR3️⃣</td>
+    <td rowspan="3">+5 STR2️⃣</br>+50 Life3️⃣</td>
+    <td rowspan="3">+10 STR</br>+10 DEX</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">北极手套(Arctic Mitts)</td>
+    <td>轻型铁手套</td>
+    <td>2</td>
+    <td>力量: 45</td>
+    <td>+20 Life</br>10% IAS</td>
+    <td>+50 AR2️⃣</br>+10 DEX3️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">北极捆缚(Arctic Binding)</td>
+    <td>轻扣带</td>
+    <td>2</td>
+    <td></td>
+    <td>+40% CR</br>+30 Def</td>
+    <td>+40% MF2️⃣</br>+10% CR3️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">哈斯拉柏的铁拳(Hsarus' Iron Fist)</td>
+    <td>圆盾</td>
+    <td>3</td>
+    <td>力量: 12</td>
+    <td>2 DR</br>+10 STR</td>
+    <td>+(2.5 EDf/Lv)2️⃣</td>
+    <td rowspan="2">5 ATD2️⃣</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">哈斯拉柏的铁后跟(Hsarus' Iron Heel)</td>
+    <td>锁链靴</td>
+    <td>3</td>
+    <td>强壮: 30</td>
+    <td>+25% FR</br>+20% FRW</td>
+    <td>+ (10AR/Lv)2️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #cebc86; background:#2F0600;">毕格因的软帽(Biggin's Bonnet)</td>
+    <td>帽子</td>
+    <td>3</td>
+    <td></td>
+    <td colspan="3">+30% EDmg / +14 EDef / +30 AR / +15 Mana / +15 Life</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">🛡️克雷得劳之牙(Cleglaw's Tooth)</td>
+    <td>长剑</td>
+    <td>4</td>
+    <td>力量: 55</br>敏捷: 39</td>
+    <td>50% DS</br>30% AR</td>
+    <td>+(1.25 MAX/Lv)2️⃣</td>
+    <td rowspan="2">+50 EDef2️⃣</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">🛡️克雷得劳之爪(Cleglaw's Claw)</td>
+    <td>小盾牌</td>
+    <td>4</td>
+    <td>力量: 22</td>
+    <td>75% PLR</br>+17 EDef</td>
+    <td>+15 RES2️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">卡珊的魔咒(Cathan's Sigil)</td>
+    <td>项链</td>
+    <td>11</td>
+    <td></td>
+    <td>5 ATLD</br>10% FHR</td>
+    <td>+50 AR2️⃣</td>
+    <td rowspan="2">+15-20 FD2️⃣</td>
+    <td rowspan="2"></td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">卡珊的封印(Cathan's Seal)</td>
+    <td>戒指</td>
+    <td>11</td>
+    <td></td>
+    <td>6% LL</br>2 DR</td>
+    <td>+10 STR2️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">天使之翼(Angelic Wings)</td>
+    <td>项链</td>
+    <td>12</td>
+    <td></td>
+    <td>20% DTM</br>+3照亮</td>
+    <td>+75 Life2️⃣</td>
+    <td rowspan="2">+10 DEX2️⃣</td>
+    <td rowspan="2"></td>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">天使的光晕(Angelic Halo)</td>
+    <td>戒指</td>
+    <td>12</td>
+    <td></td>
+    <td>+6 RL</br>+20 Life</td>
+    <td>+(12 AR/Lv)2️⃣</td>
+  </tr>
+  <tr>
+    <td style="color: #00c400; background:#2F0600;">维达拉的距毛(Vidala's Fetlock)</td>
+    <td>轻金属靴</td>
+    <td>14</td>
+    <td>力量:50</td>
+    <td>30% FRW / +150 ENG</td>
+    <td></td>
+    <td rowspan="1"></td>
+    <td rowspan="1"></td>
+  </tr>
+  <tr>
+    <td style="color: #cebc86; background:#2F0600;">渡鸟之爪(Raven Claw)</td>
+    <td>长弓</td>
+    <td>15</td>
+    <td>力量: 22</br>敏捷: 19</td>
+    <td colspan="3">+60-70% EDmg / 火焰爆炸伤害 / 50% AR / +3 DEX / +3 STR</td>
+    <td></td>
+  </tr>
+</table>
 
 [TOP](#TOC)
 
