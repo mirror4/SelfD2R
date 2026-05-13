@@ -1,3 +1,4 @@
+# TOC
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
@@ -73,6 +74,8 @@
 | ✅娜塔亚的影子(Natalya's Shadow) | 甲壳铠鳞甲 | 655Def/+173Def/`3S` | 最好是 3 孔 |
 | ✅娜塔亚的灵魂(Natalya's Soul) | 织网之靴 | +97Def | - |
 
+[TOP](#TOC)
+
 # 绿装收集狂二
 > 占地面积大（如 6x2 的大锤子）或件数多的物理/职业大套
 
@@ -117,6 +120,8 @@
 | ✅布尔凯索的部族守护(Bul-Kathos' Tribal Guardian) | 秘仪之剑 | - | - |
 | 布尔凯索的神圣代价(Bul-Kathos' Sacred Charge) | 巨神之刃 | - | - |
 
+[TOP](#TOC)
+
 # 绿装收集狂三
 > 适合给佣兵使用、提供特殊功能（如传送）或物理系通用的精英套装
 
@@ -156,6 +161,8 @@
 | 娜吉的小环(Naj's Circlet) | 头饰 | - | - |
 | 娜吉的轻铠甲(Naj's Light Plate) | 地狱锻甲 | - | - |
 | ✅娜吉的解密棒(Naj's Puzzler) | 长老之杖 | - | - |
+
+[TOP](#TOC)
 
 # 绿装收集狂四
 > 低等级（6-15级）即可穿戴，用来快速带大剩下的野蛮人等小号
@@ -201,6 +208,7 @@
 | 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
 | 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
 
+[TOP](#TOC)
 
 # 开荒绿装
 
@@ -223,6 +231,8 @@
 | ✅[维达拉的突袭(Vidala's Ambush)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 皮甲 | 14 | - | - |
 | [依雷撒的项圈(Iratha's Collar)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 项链 | 15 | - | - |
 | ✅[依雷撒的线圈(Iratha's Coil)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 皇冠 | 15 | - | - |
+
+[TOP](#TOC)
 
 # 暗金低档一(Lv26)
 
@@ -249,6 +259,8 @@
 | [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
 | [凋谢之书(Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
 
+[TOP](#TOC)
+
 # 暗金低档二(Lv40)
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
@@ -266,6 +278,8 @@
 | [屠夫之瞳(Butcher's Pupil)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B1%A0%E5%A4%AB%E4%B9%8B%E7%9E%B3_(Diablo2)) | 切肉斧 | 39 | +177% ED | - |
 | [屠夫之瞳(Butcher's Pupil)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B1%A0%E5%A4%AB%E4%B9%8B%E7%9E%B3_(Diablo2)) | 切肉斧 | 39 | +182% ED | - |
 | [狂野之弦(Witchwild String)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%8B%82%E9%87%8E%E4%B9%8B%E5%BC%A6) | 短攻城弓 | 39 | +168%ED | - |
+
+[TOP](#TOC)
 
 # 暗金中档一(Lv70)
 
@@ -290,6 +304,8 @@
 | [破骨(Bonehew)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%A0%B4%E9%AA%A8_(Diablo2)) | 食人魔之斧 | 64 | +271%ED | - |
 | [刀锋边缘(Razor's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%88%80%E9%94%8B%E8%BE%B9%E7%BC%98_(Diablo2)) | 战戟 | 67 | 202ED | - |
 
+[TOP](#TOC)
+
 # 暗金高档一
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
@@ -303,6 +319,7 @@
 | [安达利尔的面貌(Andariel's Visage)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%AE%89%E8%BE%BE%E5%88%A9%E5%B0%94%E7%9A%84%E9%9D%A2%E8%B2%8C_(Diablo2)) | 恶魔头盖骨面具 | 83 | 8LL/+120%ED/+28STR | - |
 | [掠墓者(Tomb Reaver)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%8E%A0%E5%A2%93%E8%80%85_(Diablo2)) | 神秘之斧 | 84 | 266ED/217DTU/305UAR/30RES/13LK/54MF/`3S` | - |
 
+[TOP](#TOC)
 
 # 暗金毕业一
 
@@ -323,6 +340,7 @@
 | [蜘蛛之网(Arachnid Mesh)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9C%98%E8%9B%9B%E4%B9%8B%E7%BD%91_(Diablo2)) | 蛛网腰带 | 80 | 104ED | - |
 | [碎脑者(The Cranium Basher)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%A2%8E%E8%84%91%E8%80%85_(Diablo2)) | 雷锤 | 87 | +211% ED | - |
 
+[TOP](#TOC)
 
 # 符文之语一
 
@@ -337,6 +355,8 @@
 | [背叛(Treachery)](https://wiki.d.163.com/index.php?title=Treachery_(Diablo_II)) | 3 凹槽 盔甲 | Shael(13) + Thul(10) + Lem(20) | 43 | - | - |
 | [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 27 | 28-66Atk</br>17Meditation Aura</br>218ED/244AR/2CS | - |
 | [眼光(Insight)](https://wiki.d.163.com/index.php?title=Insight_(Diablo_II)) | 4 凹槽 长柄武器/法杖 | Ral(8) + Tir(3) + Tal(7) + Sol(12) | 48 | 62-514Atk</br>17Meditation Aura</br>212ED/222AR/1CS | - |
+
+[TOP](#TOC)
 
 
 # 暗金.js
