@@ -274,11 +274,11 @@
 ## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
 > 第五幕佣兵神装
 
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| 沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator) | 炎魔皮板甲 | - | - |
-| 沙撒璧的精神之鞘(Sazabi's Mental Sheath) | 轻钢盔 | - | - |
-| 沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer) | 神秘之剑 | - | - |
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| [沙撒璧的鬼魂释放者Sazabi's Ghost Liberator)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 炎魔皮板甲 | 67 | - | - |
+| [沙撒璧的精神之鞘Sazabi's Mental Sheath)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 轻钢盔 | 43 | - | - |
+| [沙撒璧歉悔之钴Sazabi's Cobalt Redeemer)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 神秘之剑 | 73 | - | - |
 
 [TOP](#TOC)
 
@@ -450,9 +450,9 @@
         const secondText = secondChild ? secondChild.textContent.trim() : "无";
 
         const tr = td.parentElement?.nextElementSibling?.nextElementSibling;
-        const match = tr.innerText.match(/(?:须要等级)\s*:\s*(\d+)/);
+        const match = tr.innerText.match(/(?:(须要等级|要求级别))\s*:\s*(\d+)/);
 
-        text += `| [${firstText})](${window.location.href}) | ${secondText} | ${match[1]} | - | - |\r\n`;
+        text += `| [${firstText})](${window.location.href}) | ${secondText} | ${match[2]} | - | - |\r\n`;
     });
 
     console.log(text);
