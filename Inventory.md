@@ -128,7 +128,7 @@
     <th>套装</th>
   </tr>
   <tr>
-    <td>$\color{#00c400}北极皮毛(Arctic Furs)$</td>
+    <td>$\color{#00c400}北极皮毛(Arctic Furs)$ ✅</td>
     <td>布甲</td>
     <td>2</td>
     <td>力量: 12</td>
@@ -137,7 +137,7 @@
     <td rowspan="3">+5 STR2️⃣</br>+50 Life3️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}北极手套(Arctic Mitts)$</td>
+    <td>$\color{#00c400}北极手套(Arctic Mitts)$ ✅</td>
     <td>轻型铁手套</td>
     <td>2</td>
     <td>力量: 45</td>
@@ -145,7 +145,7 @@
     <td>+50 AR2️⃣</br>+10 DEX3️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}北极捆缚(Arctic Binding)$</td>
+    <td>$\color{#00c400}北极捆缚(Arctic Binding)$ ✅</td>
     <td>轻扣带</td>
     <td>2</td>
     <td></td>
@@ -153,7 +153,7 @@
     <td>+40% MF2️⃣</br>+10% CR3️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}哈斯拉柏的铁拳(Hsarus' Iron Fist)$</td>
+    <td>$\color{#00c400}哈斯拉柏的铁拳(Hsarus' Iron Fist)$ ✅</td>
     <td>圆盾</td>
     <td>3</td>
     <td>力量: 12</td>
@@ -162,7 +162,7 @@
     <td rowspan="2">5 ATD2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}哈斯拉柏的铁后跟(Hsarus' Iron Heel)$</td>
+    <td>$\color{#00c400}哈斯拉柏的铁后跟(Hsarus' Iron Heel)$ ✅</td>
     <td>锁链靴</td>
     <td>3</td>
     <td>强壮: 30</td>
@@ -170,7 +170,7 @@
     <td>+ (10AR/Lv)2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#cebc86}毕格因的软帽(Biggin's Bonnet)$</td>
+    <td>$\color{#cebc86}毕格因的软帽(Biggin's Bonnet)$ ✅</td>
     <td>帽子</td>
     <td>3</td>
     <td></td>
@@ -186,7 +186,7 @@
     <td rowspan="2">+50 EDef2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}克雷得劳之爪(Cleglaw's Claw)$ 🛡️</td>
+    <td>$\color{#00c400}克雷得劳之爪(Cleglaw's Claw)$ 🛡️✅</td>
     <td>小盾牌</td>
     <td>4</td>
     <td>力量: 22</td>
@@ -194,7 +194,7 @@
     <td>+15 RES2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}卡珊的魔咒(Cathan's Sigil)$</td>
+    <td>$\color{#00c400}卡珊的魔咒(Cathan's Sigil)$ ✅</td>
     <td>项链</td>
     <td>11</td>
     <td></td>
@@ -203,7 +203,7 @@
     <td rowspan="2">+15-20 FD2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}卡珊的封印(Cathan's Seal)$</td>
+    <td>$\color{#00c400}卡珊的封印(Cathan's Seal)$ ✅</td>
     <td>戒指</td>
     <td>11</td>
     <td></td>
@@ -211,7 +211,7 @@
     <td>+10 STR2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}天使之翼(Angelic Wings)$</td>
+    <td>$\color{#00c400}天使之翼(Angelic Wings)$ ✅</td>
     <td>项链</td>
     <td>12</td>
     <td></td>
@@ -219,7 +219,7 @@
     <td>+75 Life2️⃣</td>
     <td rowspan="2">+10 DEX2️⃣</td>
   <tr>
-    <td>$\color{#00c400}天使的光晕(Angelic Halo)$</td>
+    <td>$\color{#00c400}天使的光晕(Angelic Halo)$ ✅</td>
     <td>戒指</td>
     <td>12</td>
     <td></td>
@@ -227,23 +227,14 @@
     <td>+(12 AR/Lv)2️⃣</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}维达拉的距毛(Vidala's Fetlock)$</td>
-    <td>轻金属靴</td>
-    <td>14</td>
-    <td>力量:50</td>
-    <td>30% FRW / +150 ENG</td>
-    <td></td>
-    <td rowspan="1"></td>
-  </tr>
-  <tr>
-    <td>$\color{#cebc86}{渡鸟之爪(Raven Claw)}$</td>
+    <td>$\color{#cebc86}{渡鸟之爪(Raven Claw)}$ ✅</td>
     <td>长弓</td>
     <td>15</td>
     <td>力量: 22</br>敏捷: 19</td>
     <td colspan="3">+60-70% EDmg / 火焰爆炸伤害 / 50% AR / +3 DEX / +3 STR</td>
   </tr>
   <tr>
-    <td>$\color{#00c400}西刚的面甲(Sigon's Visor)$</td>
+    <td>$\color{#00c400}西刚的面甲(Sigon's Visor)$ ✅</td>
     <td>卓越头盔</td>
     <td>6</td>
     <td>强壮: 63</td>
@@ -251,7 +242,7 @@
     <td>+(8 AR/Lv)2️⃣</td>
     <td rowspan="2"> 10% LL2️⃣</td>
   <tr>
-    <td>$\color{#00c400}西刚的木鞋(Sigon's Sabot)$</td>
+    <td>$\color{#00c400}西刚的木鞋(Sigon's Sabot)$ ✅</td>
     <td>护胫</td>
     <td>6</td>
     <td>强壮: 70</td>
