@@ -1,5 +1,4 @@
 # TOC
-- [TOC](#toc)
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
@@ -276,9 +275,9 @@
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
 | - | - | - | - | - |
-| [沙撒璧的鬼魂释放者Sazabi's Ghost Liberator)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 炎魔皮板甲 | 67 | - | - |
-| [沙撒璧的精神之鞘Sazabi's Mental Sheath)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 轻钢盔 | 43 | - | - |
-| [沙撒璧歉悔之钴Sazabi's Cobalt Redeemer)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 神秘之剑 | 73 | - | - |
+| [沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 炎魔皮板甲 | 67 | - | - |
+| [沙撒璧的精神之鞘(Sazabi's Mental Sheath)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 轻钢盔 | 43 | - | - |
+| [沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 神秘之剑 | 73 | - | - |
 
 [TOP](#TOC)
 
