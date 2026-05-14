@@ -1,5 +1,4 @@
 # TOC
-- [TOC](#toc)
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
