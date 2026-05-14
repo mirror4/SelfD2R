@@ -249,6 +249,13 @@
     <td>+40% CR</br>20% FRW</td>
     <td>+50 AR2️⃣</td>
   </tr>
+  <tr>
+    <td>$\color{grey}隐秘(Stealth)$ ✅</td>
+    <td> 盔甲</td>
+    <td>17</td>
+    <td>力量: 20</td>
+    <td>102 Def</td>
+    <td colspan="2"></td>
 </table>
 
 ## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
