@@ -1,4 +1,5 @@
 # TOC
+- [TOC](#toc)
 - [绿装收集狂一](#绿装收集狂一)
   - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
@@ -126,7 +127,6 @@
     <th>属性</th>
     <th>增益</th>
     <th>套装</th>
-    <th>人物</th>
   </tr>
   <tr>
     <td>$\color{#00c400}北极皮毛(Arctic Furs)$</td>
@@ -136,7 +136,6 @@
     <td>+275-325% EDef</br>+10 RES</td>
     <td>+(3 / Lv )2️⃣</br>+15% CR3️⃣</td>
     <td rowspan="3">+5 STR2️⃣</br>+50 Life3️⃣</td>
-    <td rowspan="3">+10 STR</br>+10 DEX</td>
   </tr>
   <tr>
     <td>$\color{#00c400}北极手套(Arctic Mitts)$</td>
@@ -162,7 +161,6 @@
     <td>2 DR</br>+10 STR</td>
     <td>+(2.5 EDf/Lv)2️⃣</td>
     <td rowspan="2">5 ATD2️⃣</td>
-    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>$\color{#00c400}哈斯拉柏的铁后跟(Hsarus' Iron Heel)$</td>
@@ -178,7 +176,6 @@
     <td>3</td>
     <td></td>
     <td colspan="3">+30% EDmg / +14 EDef / +30 AR / +15 Mana / +15 Life</td>
-    <td></td>
   </tr>
   <tr>
     <td>$\color{#00c400}克雷得劳之牙(Cleglaw's Tooth)$ 🛡️</td>
@@ -188,7 +185,6 @@
     <td>50% DS</br>30% AR</td>
     <td>+(1.25 MAX/Lv)2️⃣</td>
     <td rowspan="2">+50 EDef2️⃣</td>
-    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>$\color{#00c400}克雷得劳之爪(Cleglaw's Claw)$ 🛡️</td>
@@ -206,7 +202,6 @@
     <td>5 ATLD</br>10% FHR</td>
     <td>+50 AR2️⃣</td>
     <td rowspan="2">+15-20 FD2️⃣</td>
-    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>$\color{#00c400}卡珊的封印(Cathan's Seal)$</td>
@@ -224,7 +219,6 @@
     <td>20% DTM</br>+3照亮</td>
     <td>+75 Life2️⃣</td>
     <td rowspan="2">+10 DEX2️⃣</td>
-    <td rowspan="2"></td>
   <tr>
     <td>$\color{#00c400}天使的光晕(Angelic Halo)$</td>
     <td>戒指</td>
@@ -241,7 +235,6 @@
     <td>30% FRW / +150 ENG</td>
     <td></td>
     <td rowspan="1"></td>
-    <td rowspan="1"></td>
   </tr>
   <tr>
     <td>$\color{#cebc86}{渡鸟之爪(Raven Claw)}$</td>
@@ -249,7 +242,6 @@
     <td>15</td>
     <td>力量: 22</br>敏捷: 19</td>
     <td colspan="3">+60-70% EDmg / 火焰爆炸伤害 / 50% AR / +3 DEX / +3 STR</td>
-    <td></td>
   </tr>
   <tr>
     <td>$\color{#00c400}西刚的面甲(Sigon's Visor)$</td>
@@ -259,7 +251,6 @@
     <td>+25 EDef</br>+30 Mana</td>
     <td>+(8 AR/Lv)2️⃣</td>
     <td rowspan="2"> 10% LL2️⃣</td>
-    <td rowspan="2"></td>
   <tr>
     <td>$\color{#00c400}西刚的木鞋(Sigon's Sabot)$</td>
     <td>护胫</td>
