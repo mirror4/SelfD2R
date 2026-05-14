@@ -10,20 +10,8 @@
   - [**格瑞斯华尔德的传奇(Griswold's Legacy)**](#格瑞斯华尔德的传奇griswolds-legacy)
   - [**马维娜的战斗诗歌(M'avina's Battle Hymn)**](#马维娜的战斗诗歌mavinas-battle-hymn)
   - [**布尔凯索的孩子(Bul-Kathos' Children)**](#布尔凯索的孩子bul-kathos-children)
-- [绿装收集狂三](#绿装收集狂三)
-  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
-  - [**门徒(The Disciple)**](#门徒the-disciple)
-  - [**孤儿的呼唤(Orphan's Call)**](#孤儿的呼唤orphans-call)
-  - [**娜吉的古代遗迹(Naj's Ancient Vestige)**](#娜吉的古代遗迹najs-ancient-vestige)
-- [绿装收集狂四](#绿装收集狂四)
-  - [**西刚的全套刀剑(Sigon's Complete Steel)**](#西刚的全套刀剑sigons-complete-steel)
-  - [**天上的衣服(Angelic Raiment)**](#天上的衣服angelic-raiment)
-  - [**死亡的伪装(Death's Disguise)**](#死亡的伪装deaths-disguise)
-  - [**依雷撒的精洗炉(Iratha's Finery)**](#依雷撒的精洗炉irathas-finery)
 - [开荒配装](#开荒配装)
-- [开荒绿装](#开荒绿装)
-- [暗金低档一(Lv26)](#暗金低档一lv26)
-- [暗金低档二(Lv40)](#暗金低档二lv40)
+  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
 - [暗金中档一(Lv70)](#暗金中档一lv70)
 - [暗金高档一](#暗金高档一)
 - [暗金毕业一](#暗金毕业一)
@@ -127,94 +115,6 @@
 
 [TOP](#TOC)
 
-# 绿装收集狂三
-> 适合给佣兵使用、提供特殊功能（如传送）或物理系通用的精英套装
-
-## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
-> 第五幕佣兵神装
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| 沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator) | 炎魔皮板甲 | - | - |
-| 沙撒璧的精神之鞘(Sazabi's Mental Sheath) | 轻钢盔 | - | - |
-| 沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer) | 神秘之剑 | - | - |
-
-
-## **[门徒(The Disciple)](https://wiki.d.163.com/index.php?title=The_Disciple_(Diablo2))**
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| 述说之珠(Telling of Beads) | 项链 | - | - |
-| ✅**手掌的安置**(Laying of Hands) | 荆棘连指手套 | 85Def | - |
-| 黑暗信徒(Dark Adherent) | 灰幕寿衣 | - | - |
-| ✅仪式的走道(Rite of Passage) | 飞龙皮靴 | 55Def | - |
-| 信条(Credendum) | 秘银腰带 | - | - |
-
-## **[孤儿的呼唤(Orphan's Call)](https://wiki.d.163.com/index.php?title=Orphan%27s_Call_(Diablo2))**
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| ✅惠斯坦的武装(Whitstan's Guard) | 圆形盾 | 154Def | - |
-| 威廉的自尊(Wilhelm's Pride) | 战场腰带 | - | - |
-| ✅马格纳斯之皮(Magnus' Skin) | 鲨皮手套 | 60Def | - |
-| 吉永之脸(Guillaume's Face) | 翼盔 | - | - |
-
-## **[娜吉的古代遗迹(Naj's Ancient Vestige)](https://wiki.d.163.com/index.php?title=Naj%27s_Ancient_Vestige_(Diablo2))**
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| 娜吉的小环(Naj's Circlet) | 头饰 | - | - |
-| 娜吉的轻铠甲(Naj's Light Plate) | 地狱锻甲 | - | - |
-| ✅娜吉的解密棒(Naj's Puzzler) | 长老之杖 | - | - |
-
-[TOP](#TOC)
-
-# 绿装收集狂四
-> 低等级（6-15级）即可穿戴，用来快速带大剩下的野蛮人等小号
-
-## **[西刚的全套刀剑(Sigon's Complete Steel)](https://wiki.d.163.com/index.php?title=Sigon%27s_Complete_Steel_(Diablo2))**
-> 6级练级之王
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| ✅西刚的遮蔽(Sigon's Shelter) | 歌德战甲 | - | - |
-| 西刚的守护(Sigon's Guard) | 塔盾 | - | - |
-| ✅西刚的披肩(Sigon's Wrap) | 金属扣带 | 9Def | - |
-| ✅西刚的挑战(Sigon's Gage) | 铁手套 | `15Def` | - |
-| 西刚的木鞋(Sigon's Sabot) | 护胫 | - | - |
-| 西刚的面甲(Sigon's Visor) | 卓越头盔 | - | - |
-
-## **[天上的衣服(Angelic Raiment)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2))**
-> 12级解决命中问题
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| ✅天使的光晕(Angelic Halo) | 戒指 | - | - |
-| 天使之翼(Angelic Wings) | 项链 | - | - |
-| ✅天使的镰刀(Angelic Sickle) | 单手剑 | 3-8 DMG | - |
-| 天使的斗篷(Angelic Mantle) | 链锁衣 | - | - |
-
-## **[死亡的伪装(Death's Disguise)](https://wiki.d.163.com/index.php?title=Death%27s_Disguise_(Diablo2))**
-> 6级极速
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| ✅死亡之触(Death's Touch) | 巨战之剑 | - | - |
-| 死亡之手(Death's Hand) | 皮手套 | - | - |
-| 死亡的守护(Death's Guard) | 饰带 | - | - |
-
-## **[依雷撒的精洗炉(Iratha's Finery)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2))**
-> 提升抗性上限到85%
-
-| 名称 | 类型 | 属性 | 说明 |
-| - | - | - | - |
-| 依雷撒的项圈(Iratha's Collar) | 项链 | - | - |
-| 依雷撒之绳(Iratha's Cord) | 重扣带 | - | - |
-| 依雷撒的线圈(Iratha's Coil) | 皇冠 | - | - |
-| 依雷撒的袖口(Iratha's Cuff) | 轻型铁手套 | - | - |
-
-[TOP](#TOC)
-
 # 开荒配装
 
 <table>
@@ -229,7 +129,7 @@
     <th>人物</th>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">北极皮毛(Arctic Furs)</td>
+    <td>$\color{#00c400}北极皮毛(Arctic Furs)$</td>
     <td>布甲</td>
     <td>2</td>
     <td>力量: 12</td>
@@ -239,7 +139,7 @@
     <td rowspan="3">+10 STR</br>+10 DEX</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">北极手套(Arctic Mitts)</td>
+    <td>$\color{#00c400}北极手套(Arctic Mitts)$</td>
     <td>轻型铁手套</td>
     <td>2</td>
     <td>力量: 45</td>
@@ -247,7 +147,7 @@
     <td>+50 AR2️⃣</br>+10 DEX3️⃣</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">北极捆缚(Arctic Binding)</td>
+    <td>$\color{#00c400}北极捆缚(Arctic Binding)$</td>
     <td>轻扣带</td>
     <td>2</td>
     <td></td>
@@ -255,7 +155,7 @@
     <td>+40% MF2️⃣</br>+10% CR3️⃣</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">哈斯拉柏的铁拳(Hsarus' Iron Fist)</td>
+    <td>$\color{#00c400}哈斯拉柏的铁拳(Hsarus' Iron Fist)$</td>
     <td>圆盾</td>
     <td>3</td>
     <td>力量: 12</td>
@@ -265,7 +165,7 @@
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">哈斯拉柏的铁后跟(Hsarus' Iron Heel)</td>
+    <td>$\color{#00c400}哈斯拉柏的铁后跟(Hsarus' Iron Heel)$</td>
     <td>锁链靴</td>
     <td>3</td>
     <td>强壮: 30</td>
@@ -273,7 +173,7 @@
     <td>+ (10AR/Lv)2️⃣</td>
   </tr>
   <tr>
-    <td style="color: #cebc86; background:#2F0600;">毕格因的软帽(Biggin's Bonnet)</td>
+    <td>$\color{#cebc86}毕格因的软帽(Biggin's Bonnet)$</td>
     <td>帽子</td>
     <td>3</td>
     <td></td>
@@ -281,7 +181,7 @@
     <td></td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">🛡️克雷得劳之牙(Cleglaw's Tooth)</td>
+    <td>$\color{#00c400}克雷得劳之牙(Cleglaw's Tooth)$ 🛡️</td>
     <td>长剑</td>
     <td>4</td>
     <td>力量: 55</br>敏捷: 39</td>
@@ -291,7 +191,7 @@
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">🛡️克雷得劳之爪(Cleglaw's Claw)</td>
+    <td>$\color{#00c400}克雷得劳之爪(Cleglaw's Claw)$ 🛡️</td>
     <td>小盾牌</td>
     <td>4</td>
     <td>力量: 22</td>
@@ -299,7 +199,7 @@
     <td>+15 RES2️⃣</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">卡珊的魔咒(Cathan's Sigil)</td>
+    <td>$\color{#00c400}卡珊的魔咒(Cathan's Sigil)$</td>
     <td>项链</td>
     <td>11</td>
     <td></td>
@@ -309,7 +209,7 @@
     <td rowspan="2"></td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">卡珊的封印(Cathan's Seal)</td>
+    <td>$\color{#00c400}卡珊的封印(Cathan's Seal)$</td>
     <td>戒指</td>
     <td>11</td>
     <td></td>
@@ -317,7 +217,7 @@
     <td>+10 STR2️⃣</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">天使之翼(Angelic Wings)</td>
+    <td>$\color{#00c400}天使之翼(Angelic Wings)$</td>
     <td>项链</td>
     <td>12</td>
     <td></td>
@@ -326,7 +226,7 @@
     <td rowspan="2">+10 DEX2️⃣</td>
     <td rowspan="2"></td>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">天使的光晕(Angelic Halo)</td>
+    <td>$\color{#00c400}天使的光晕(Angelic Halo)$</td>
     <td>戒指</td>
     <td>12</td>
     <td></td>
@@ -334,7 +234,7 @@
     <td>+(12 AR/Lv)2️⃣</td>
   </tr>
   <tr>
-    <td style="color: #00c400; background:#2F0600;">维达拉的距毛(Vidala's Fetlock)</td>
+    <td>$\color{#00c400}维达拉的距毛(Vidala's Fetlock)$</td>
     <td>轻金属靴</td>
     <td>14</td>
     <td>力量:50</td>
@@ -344,85 +244,40 @@
     <td rowspan="1"></td>
   </tr>
   <tr>
-    <td style="color: #cebc86; background:#2F0600;">渡鸟之爪(Raven Claw)</td>
+    <td>$\color{#cebc86}{渡鸟之爪(Raven Claw)}$</td>
     <td>长弓</td>
     <td>15</td>
     <td>力量: 22</br>敏捷: 19</td>
     <td colspan="3">+60-70% EDmg / 火焰爆炸伤害 / 50% AR / +3 DEX / +3 STR</td>
     <td></td>
   </tr>
+  <tr>
+    <td>$\color{#00c400}西刚的面甲(Sigon's Visor)$</td>
+    <td>卓越头盔</td>
+    <td>6</td>
+    <td>强壮: 63</td>
+    <td>+25 EDef</br>+30 Mana</td>
+    <td>+(8 AR/Lv)2️⃣</td>
+    <td rowspan="2"> 10% LL2️⃣</td>
+    <td rowspan="2"></td>
+  <tr>
+    <td>$\color{#00c400}西刚的木鞋(Sigon's Sabot)$</td>
+    <td>护胫</td>
+    <td>6</td>
+    <td>强壮: 70</td>
+    <td>+40% CR</br>20% FRW</td>
+    <td>+50 AR2️⃣</td>
+  </tr>
 </table>
 
-[TOP](#TOC)
+## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
+> 第五幕佣兵神装
 
-# 开荒绿装
-
-| 名称 | 类型 | 等级 | 属性 | 说明 |
-| - | - | - | - | - |
-| ✅[北极号角(Arctic Horn)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 短巨战弓✅ | 2 | - | - |
-| ✅[北极皮毛(Arctic Furs)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 布甲✅ | 2 | - | - |
-| ✅[北极手套(Arctic Mitts)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻型铁手套✅ | 2 | - | - |
-| ✅[北极捆缚(Arctic Binding)](https://wiki.d.163.com/index.php?title=Arctic_Gear_(Diablo2)) | 轻扣带✅ | 2 | - | - |
-| ✅[狂战士的头戴(Berserker's Headgear)](https://wiki.d.163.com/index.php?title=Berserker%27s_Arsenal_(Diablo2)) | 头盔 | 3 | - | - |
-| ✅[哈斯拉柏的铁后跟(Hsarus' Iron Heel)](https://wiki.d.163.com/index.php?title=Hsarus%27_Defense_(Diablo2)) | 锁链靴 | 3 | - | - |
-| ✅[依森哈德的号角(Isenhart's Horns)](https://wiki.d.163.com/index.php?title=Isenhart%27s_Armory_(Diablo2)) | 高级头盔✅ | 8 | - | - |
-| ✅[卡珊的封印(Cathan's Seal)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 戒指✅ | 11 | - | - |
-| ✅[卡珊的魔咒Cathan's Sigil)](https://wiki.d.163.com/index.php?title=Cathan%27s_Traps_(Diablo2)) | 项链 | 11 | - | - |
-| ✅[天使的光晕(Angelic Halo)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 戒指✅ | 12 | - | - |
-| [天使之翼(Angelic Wings)](https://wiki.d.163.com/index.php?title=Angelic_Raiment_(Diablo2)) | 项链 | 12 | - | - |
-| [维达拉的距毛(Vidala's Fetlock)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 轻金属靴✅ | 14 | - | - |
-| [维达拉的陷阱(Vidala's Snare)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 项链✅ | 14 | - | - |
-| ✅[维达拉之倒刺(Vidala's Barb)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 长巨战弓 | 14 | - | - |
-| ✅[维达拉的突袭(Vidala's Ambush)](https://wiki.d.163.com/index.php?title=Vidala%27s_Rig_(Diablo2)) | 皮甲 | 14 | - | - |
-| [依雷撒的项圈(Iratha's Collar)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 项链 | 15 | - | - |
-| ✅[依雷撒的线圈(Iratha's Coil)](https://wiki.d.163.com/index.php?title=Iratha%27s_Finery_(Diablo2)) | 皇冠 | 15 | - | - |
-
-[TOP](#TOC)
-
-# 暗金低档一(Lv26)
-
-| 名称 | 类型 | 等级 | 属性 | 说明 |
-| - | - | - | - | - |
-| [瑞克撒特的挽歌(Rixot's Keen)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%91%9E%E5%85%8B%E6%92%92%E7%89%B9%E7%9A%84%E6%8C%BD%E6%AD%8C_(Diablo2)) | 短剑 | 2 | - | - |
-| [毕格因的软帽(Biggin's Bonnet)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%AF%95%E6%A0%BC%E5%9B%A0%E7%9A%84%E8%BD%AF%E5%B8%BD_(Diablo2)) | 帽子 | 3 | 17Def | - |
-| [海鸥(Gull)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%B5%B7%E9%B8%A5_(Diablo2)) | 匕首 | 4 | - | +100% MF |
-| [血红新月(Blood Crescent)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%A1%80%E7%BA%A2%E6%96%B0%E6%9C%88_(Diablo2)) | 弯刀 | 7 | +72%ED | - |
-| [压碎的凸边Crushflange)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%8E%8B%E7%A2%8E%E7%9A%84%E5%87%B8%E8%BE%B9_(Diablo2)) | 钉头锤 | 9 | `+60%ED` | - |
-| [阴影圆盘Umbral Disk)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%98%B4%E5%BD%B1%E5%9C%86%E7%9B%98_(Diablo2)&redirect=no) | 小盾牌 | 9 | +44%ED | - |
-| [迪格勒(The Diggler)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%BF%AA%E6%A0%BC%E5%8B%92_(Diablo2)) | 长匕首 | 11 | - | - |
-| [蛇索(Snakecord)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%9B%87%E7%B4%A2_(Diablo2)) | 轻扣带 | 12 | 22ED | - |
-| [凋谢之戒(Witherstring)](https://wiki.d.163.com/index.php?title=Unique_Bows_(Diablo2)) | 猎弓 | 13 | 44ED | - |
-| [光荣布帽(Coif of Glory)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%89%E8%8D%A3%E5%B8%83%E5%B8%BD_(Diablo2)) | 头盔 | 14 | 27Def | - |
-| [血升Bloodrise)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E8%A1%80%E5%8D%87_(Diablo2)) | 流星槌 | 15 | - | - |
-| [凯松的征服(Treads of Cthon)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%87%AF%E6%9D%BE%E7%9A%84%E5%BE%81%E6%9C%8D_(Diablo2)) | 锁链靴 | 15 | 33ED | - |
-| [格瑞斯华尔德的锐利(Griswold's Edge)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%A0%BC%E7%91%9E%E6%96%AF%E5%8D%8E%E5%B0%94%E5%BE%B7%E7%9A%84%E9%94%90%E5%88%A9_(Diablo2)) | 阔剑 | 17 | 89ED/11-18FD | - |
-| [火花之甲(Sparking Mail)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%81%AB%E8%8A%B1%E4%B9%8B%E7%94%B2_(Diablo2)) | 锁子甲 | 17 | +84%ED/10ATLD | - |
-| [黄昏深处 Duskdeep)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%BB%84%E6%98%8F%E6%B7%B1%E5%A4%84_(Diablo2)) | 高级头盔 | 17 | +34%ED/+14Def | - |
-| [贝弗提的纪念(Bverrit Keep)](https://wiki.d.163.com/index.php?title=Unique_Shields_(Diablo2)) | 塔盾 | 19 | 158DUR/118ED | - |
-| [小妖精脚趾 (Goblin Toe)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B0%8F%E5%A6%96%E7%B2%BE%E8%84%9A%E8%B6%BE_(Diablo2)) | 轻型金属靴 | 22 | 52ED | - |
-| [妖怪碎片(Spectral Shard)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%A6%96%E6%80%AA%E7%A2%8E%E7%89%87_(Diablo2)) | 短刀 | 25 | - | - |
-| [囚房(The Ward)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%9B%9A%E6%88%BF_(Diablo2)) | 哥德盾牌 | 26 | 44RES | - |
-| [凋谢之书(Wizendraw)](https://wiki.d.163.com/index.php?title=%E5%87%8B%E8%B0%A2%E4%B9%8B%E4%B9%A6(Diablo_II)) | 长战斗弓 | 26 | 80ED/88AR/-17CR | - |
-
-[TOP](#TOC)
-
-# 暗金低档二(Lv40)
-
-| 名称 | 类型 | 等级 | 属性 | 说明 |
-| - | - | - | - | - |
-| [火锯之伤(Rakescar)](https://wiki.d.163.com/index.php?title=Unique_Axes_(Diablo2)) | 巨战斧 | 27 | 107ED | - |
-| [粗野之冠(Peasant Crown)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%B2%97%E9%87%8E%E4%B9%8B%E5%86%A0_(Diablo2)) | 战帽 | 28 | 11 Life REP | - |
-| [霜燃 (Frostburn)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E9%9C%9C%E7%87%83_(Diablo2)) | 铁手套 | 29 | 49Def/`+20%ED` | - |
-| [剧毒之抓(Venom Grip)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%89%A7%E6%AF%92%E4%B9%8B%E6%8A%93_(Diablo2)) | 魔皮手套 | 29 | +146%ED/+16Deff | - |
-| [摩西祝福之环(Moser's Blessed Circle)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%91%A9%E8%A5%BF%E7%A5%9D%E7%A6%8F%E4%B9%8B%E7%8E%AF_(Diablo2)) | 圆型盾 | 31 | +214% ED | - |
-| [社角久子(Kuko Shakaku)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%A4%BE%E8%A7%92%E4%B9%85%E5%AD%90) | 杉木弓 | 33 | `+180 ED` | - |
-| [六角之火(Hexfire)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%85%AD%E8%A7%92%E4%B9%8B%E7%81%AB_(Diablo2)) | 虚伪之刃 | 33 | `+160% ED` | - |
-| [偷取骷髅(Stealskull)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%81%B7%E5%8F%96%E9%AA%B7%E9%AB%85_(Diablo2)) | 无颊头盔 | 35 | 245Def/+236%Def/44%MF | - |
-| [刻心者(Heart Carver)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%88%BB%E5%BF%83%E8%80%85_(Diablo2)) | 诗歌匕首 | 36 | +237% ED | - |
-| [撒卡兰姆之手(Zakarum's Hand)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E6%92%92%E5%8D%A1%E5%85%B0%E5%A7%86%E4%B9%8B%E6%89%8B_(Diablo2)) | 符文权杖 | 37 | +217% ED | - |
-| [屠夫之瞳(Butcher's Pupil)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B1%A0%E5%A4%AB%E4%B9%8B%E7%9E%B3_(Diablo2)) | 切肉斧 | 39 | +177% ED | - |
-| [屠夫之瞳(Butcher's Pupil)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E5%B1%A0%E5%A4%AB%E4%B9%8B%E7%9E%B3_(Diablo2)) | 切肉斧 | 39 | +182% ED | - |
-| [狂野之弦(Witchwild String)](https://wiki.d.163.com/index.php?title=%E6%A8%A1%E6%9D%BF:%E7%8B%82%E9%87%8E%E4%B9%8B%E5%BC%A6) | 短攻城弓 | 39 | +168%ED | - |
+| 名称 | 类型 | 属性 | 说明 |
+| - | - | - | - |
+| 沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator) | 炎魔皮板甲 | - | - |
+| 沙撒璧的精神之鞘(Sazabi's Mental Sheath) | 轻钢盔 | - | - |
+| 沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer) | 神秘之剑 | - | - |
 
 [TOP](#TOC)
 
