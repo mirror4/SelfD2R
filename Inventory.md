@@ -4,13 +4,13 @@
   - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
   - [**艾尔多的守卫(Aldur's Watchtower)**](#艾尔多的守卫aldurs-watchtower)
   - [**娜塔雅的非难(Natalya's Odium)**](#娜塔雅的非难natalyas-odium)
+  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
 - [绿装收集狂二](#绿装收集狂二)
   - [**不朽之王(Immortal King)**](#不朽之王immortal-king)
   - [**格瑞斯华尔德的传奇(Griswold's Legacy)**](#格瑞斯华尔德的传奇griswolds-legacy)
   - [**马维娜的战斗诗歌(M'avina's Battle Hymn)**](#马维娜的战斗诗歌mavinas-battle-hymn)
   - [**布尔凯索的孩子(Bul-Kathos' Children)**](#布尔凯索的孩子bul-kathos-children)
 - [开荒配装](#开荒配装)
-  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
 - [暗金中档一(Lv70)](#暗金中档一lv70)
 - [暗金高档一](#暗金高档一)
 - [暗金毕业一](#暗金毕业一)
@@ -52,20 +52,29 @@
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 艾尔多的冷酷凝视(Aldur's Stony Gaze) | 猎人的伪装 | - | - |
-| 艾尔多的成长(Aldur's Advance) | 战场之靴 | - | 必须是 +50% 火抗(FR) |
-| 艾尔多的欺瞒(Aldur's Deception) | 阴影铠甲 | - | - |
-| 艾尔多的律动(Aldur's Rhythm) | 锯齿流星锤 | - | - |
+| ✅艾尔多的冷酷凝视(Aldur's Stony Gaze) | 猎人的伪装 | 170Def/42CR | - |
+| ✅艾尔多的成长(Aldur's Advance) | 战场之靴 | 39Def/49FR | 必须是 +50% 火抗(FR) |
+| ✅艾尔多的欺瞒(Aldur's Deception) | 阴影铠甲 | 852Def/50LR | - |
+| ✅艾尔多的律动(Aldur's Rhythm) | 锯齿流星锤 | `3S` | - |
 
 ## **[娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
 > 刺客(Assassin)
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
-| 娜塔亚的图腾(Natalya's Totem) | 残酷头盔 | - | - |
-| 娜塔亚的标记(Natalya's Mark) | 近身剪 | - | - |
+| ✅娜塔亚的图腾(Natalya's Totem) | 残酷头盔 | 224Def/+156Def/+14STR/+27DEX/+18RES | - |
+| ✅娜塔亚的标记(Natalya's Mark) | 近身剪 | - | - |
 | ✅娜塔亚的影子(Natalya's Shadow) | 甲壳铠鳞甲 | 655Def/+173Def/`3S` | 最好是 3 孔 |
 | ✅娜塔亚的灵魂(Natalya's Soul) | 织网之靴 | +97Def | - |
+
+## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
+> 第五幕佣兵神装
+
+| 名称 | 类型 | 等级 | 属性 | 说明 |
+| - | - | - | - | - |
+| ✅[沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 炎魔皮板甲 | 67 | 883Def/63Life | - |
+| ✅[沙撒璧的精神之鞘(Sazabi's Mental Sheath)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 轻钢盔 | 43 | `184Def`/17LR/19FR | - |
+| ✅[沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 神秘之剑 | 73 | - | - |
 
 [TOP](#TOC)
 
@@ -257,15 +266,6 @@
     <td>102 Def</td>
     <td colspan="2"></td>
 </table>
-
-## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
-> 第五幕佣兵神装
-
-| 名称 | 类型 | 等级 | 属性 | 说明 |
-| - | - | - | - | - |
-| [沙撒璧的鬼魂释放者(Sazabi's Ghost Liberator)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 炎魔皮板甲 | 67 | - | - |
-| [沙撒璧的精神之鞘(Sazabi's Mental Sheath)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 轻钢盔 | 43 | - | - |
-| [沙撒璧歉悔之钴(Sazabi's Cobalt Redeemer)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2)) | 神秘之剑 | 73 | - | - |
 
 [TOP](#TOC)
 
