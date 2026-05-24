@@ -1,15 +1,15 @@
 # TOC
 - [绿装收集狂一](#绿装收集狂一)
-  - [**塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
-  - [**塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
-  - [**艾尔多的守卫(Aldur's Watchtower)**](#艾尔多的守卫aldurs-watchtower)
-  - [**娜塔雅的非难(Natalya's Odium)**](#娜塔雅的非难natalyas-odium)
-  - [**沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
+  - [**✅塔拉夏的外袍(Tal Rasha's Wrappings)**](#塔拉夏的外袍tal-rashas-wrappings)
+  - [**✅塔格奥的化身(Trang-Oul's Avatar)**](#塔格奥的化身trang-ouls-avatar)
+  - [**✅艾尔多的守卫(Aldur's Watchtower)**](#艾尔多的守卫aldurs-watchtower)
+  - [**✅娜塔雅的非难(Natalya's Odium)**](#娜塔雅的非难natalyas-odium)
+  - [**✅沙撒璧的雄伟贡品(Sazabi's Grand Tribute)**](#沙撒璧的雄伟贡品sazabis-grand-tribute)
 - [绿装收集狂二](#绿装收集狂二)
   - [**不朽之王(Immortal King)**](#不朽之王immortal-king)
   - [**格瑞斯华尔德的传奇(Griswold's Legacy)**](#格瑞斯华尔德的传奇griswolds-legacy)
-  - [**马维娜的战斗诗歌(M'avina's Battle Hymn)**](#马维娜的战斗诗歌mavinas-battle-hymn)
-  - [**布尔凯索的孩子(Bul-Kathos' Children)**](#布尔凯索的孩子bul-kathos-children)
+  - [**✅马维娜的战斗诗歌(M'avina's Battle Hymn)**](#马维娜的战斗诗歌mavinas-battle-hymn)
+  - [**✅布尔凯索的孩子(Bul-Kathos' Children)**](#布尔凯索的孩子bul-kathos-children)
 - [开荒配装](#开荒配装)
 - [暗金中档一(Lv70)](#暗金中档一lv70)
 - [暗金高档一](#暗金高档一)
@@ -20,10 +20,11 @@
   - [符文之语.js](#符文之语js)
   - [绿装.js](#绿装js)
 
+
 # 绿装收集狂一
 > 偏向法术加成和高属性加成的四套职业专属。
 
-## **[塔拉夏的外袍(Tal Rasha's Wrappings)](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))**
+## **[✅塔拉夏的外袍(Tal Rasha's Wrappings)](https://wiki.d.163.com/index.php?title=Tal_Rasha%27s_Wrappings_(Diablo2))**
 > 法师(Sorceress)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -36,7 +37,7 @@
 | - | - | - | - |
 | ✅塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | +2寒冰支配/+`1`闪电支配/+`2`火焰支配 | - |
 
-## **[塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
+## **[✅塔格奥的化身(Trang-Oul's Avatar)](https://wiki.d.163.com/index.php?title=Trang-Oul%27s_Avatar_(Diablo2))**
 > 死灵(Necromance)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -47,7 +48,7 @@
 | ✅塔格奥之鳞(Trang-Oul's Scales) | 混沌战甲 | 857Def | - |
 | ✅塔格奥之翼(Trang-Oul's Wing) | 领唱者印记 | 176Def/40FR | - |
 
-## **[艾尔多的守卫(Aldur's Watchtower)](https://wiki.d.163.com/index.php?title=Aldur%27s_Watchtower_(Diablo2))**
+## **[✅艾尔多的守卫(Aldur's Watchtower)](https://wiki.d.163.com/index.php?title=Aldur%27s_Watchtower_(Diablo2))**
 > 德鲁伊(Necromance)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -57,7 +58,7 @@
 | ✅艾尔多的欺瞒(Aldur's Deception) | 阴影铠甲 | 852Def/50LR | - |
 | ✅艾尔多的律动(Aldur's Rhythm) | 锯齿流星锤 | `3S` | - |
 
-## **[娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
+## **[✅娜塔雅的非难(Natalya's Odium)](https://wiki.d.163.com/index.php?title=Natalya%27s_Odium_(Diablo2))**
 > 刺客(Assassin)
 
 | 名称 | 类型 | 属性 | 说明 |
@@ -67,7 +68,7 @@
 | ✅娜塔亚的影子(Natalya's Shadow) | 甲壳铠鳞甲 | 655Def/+173Def/`3S` | 最好是 3 孔 |
 | ✅娜塔亚的灵魂(Natalya's Soul) | 织网之靴 | +97Def | - |
 
-## **[沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
+## **[✅沙撒璧的雄伟贡品(Sazabi's Grand Tribute)](https://wiki.d.163.com/index.php?title=Sazabi%27s_Grand_Tribute_(Diablo2))**
 > 第五幕佣兵神装
 
 | 名称 | 类型 | 等级 | 属性 | 说明 |
@@ -100,27 +101,27 @@
 | - | - | - | - |
 | ✅格瑞斯华尔德之心(Griswold's Heart) | 华丽战甲 | 934Def | - |
 | ✅格瑞斯华尔德的勇气(Griswold's Valor) | 头冠 | +70%ED/`30MF` | - |
-| 格瑞斯华尔德的救赎(Griswold's Redemption) | 神使之杖 | - | - |
+| ✅格瑞斯华尔德的救赎(Griswold's Redemption) | 神使之杖 | +235%EDmg/`4S` | - |
 | 格瑞斯华尔德荣耀(Griswold's Honor) | 旋风盾 | - | - |
 
-## **[马维娜的战斗诗歌(M'avina's Battle Hymn)](https://wiki.d.163.com/index.php?title=M%27avina%27s_Battle_Hymn_(Diablo2))**
+## **[✅马维娜的战斗诗歌(M'avina's Battle Hymn)](https://wiki.d.163.com/index.php?title=M%27avina%27s_Battle_Hymn_(Diablo2))**
 > 亚马逊(Amazon)
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
 | ✅马维娜的真实之眼(M'avina's True Sight) | 权冠 | 206Def | - |
-| 马维娜的施展(M'avina's Caster) | 大族长之弓 | - | - |
+| ✅马维娜的施展(M'avina's Caster) | 大族长之弓 | - | - |
 | ✅马维娜的拥抱(M'avina's Embrace) | 海妖壳甲 | 520Def/`12MDR` | - |
 | ✅马维娜的冰握(M'avina's Icy Clutch) | 战场手套 | 92Def/+`50`Def | - |
 | ✅马维娜的教义(M'avina's Tenet) | 鲨皮腰带 | 85Def/ | - |
 
-## **[布尔凯索的孩子(Bul-Kathos' Children)](https://wiki.d.163.com/index.php?title=Bul-Kathos%27_Children_(Diablo2))**
+## **[✅布尔凯索的孩子(Bul-Kathos' Children)](https://wiki.d.163.com/index.php?title=Bul-Kathos%27_Children_(Diablo2))**
 > 野蛮人双剑(Barbarian)
 
 | 名称 | 类型 | 属性 | 说明 |
 | - | - | - | - |
 | ✅布尔凯索的部族守护(Bul-Kathos' Tribal Guardian) | 秘仪之剑 | - | - |
-| 布尔凯索的神圣代价(Bul-Kathos' Sacred Charge) | 巨神之刃 | - | - |
+| ✅布尔凯索的神圣代价(Bul-Kathos' Sacred Charge) | 巨神之刃 | - | - |
 
 [TOP](#TOC)
 
