@@ -32,7 +32,7 @@
 | ✅塔拉夏的守护(Tal Rasha's Guardianship) | 漆甲(Body Armor) | 941Def | - |
 | ✅塔拉夏的织细衣服(Tal Rasha's Fine-Spun Cloth) | 织网腰带(Belts) | 37Def/14MF | 必须是 15% MF |
 | ✅塔拉夏的赫拉迪克纹章(Tal Rasha's Horadric Crest) | 死亡面具(Helms) | 119Def | - |
-| 塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
+| ✅塔拉夏的判决(Tal Rasha's Adjudication) | 项链(Amulets) | - | - |
 | - | - | - | - |
 | ✅塔拉夏的女士之眼(Tal Rasha's Lidless Eye) | 涡流水晶(Sorceress Orbs) | +2寒冰支配/+`1`闪电支配/+`2`火焰支配 | - |
 
@@ -43,9 +43,9 @@
 | - | - | - | - |
 | ✅塔格奥之束带(Trang-Oul's Girth) | 洞穴巨魔腰带 | 146Def/+84Def/+49Mana | - |
 | ✅塔格奥之爪(Trang-Oul's Claws) | 重型手镯 | 69Def | - |
-| 塔格奥之外装(Trang-Oul's Guise) | 骸骨面罩 | - | - |
-| ✅塔格奥之鳞(Trang-Oul's Scales) | 混沌战甲 | - | - |
-| 塔格奥之翼(Trang-Oul's Wing) | 领唱者印记 | - | - |
+| ✅塔格奥之外装(Trang-Oul's Guise) | 骸骨面罩 | - | - |
+| ✅塔格奥之鳞(Trang-Oul's Scales) | 混沌战甲 | 857Def | - |
+| ✅塔格奥之翼(Trang-Oul's Wing) | 领唱者印记 | 176Def/40FR | - |
 
 ## **[艾尔多的守卫(Aldur's Watchtower)](https://wiki.d.163.com/index.php?title=Aldur%27s_Watchtower_(Diablo2))**
 > 德鲁伊(Necromance)
